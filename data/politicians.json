@@ -1,0 +1,2466 @@
+[
+    {
+        "id": 1,
+        "name_surname": "Kasparas Adomaitis",
+        "faction": "Laisvės frakcija",
+        "faction_color": "#F6005E",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/kasparas_adomaitis.jpg",
+        "birthday": "1983-06-29",
+        "sitting_position": 123,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84598"
+    },
+    {
+        "id": 2,
+        "name_surname": "Virgilijus Alekna",
+        "faction": "Liberalų  sąjūdžio frakcija",
+        "faction_color": "#F49813",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/virgilijus_alekna.jpg",
+        "birthday": "1972-02-13",
+        "sitting_position": 62,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79162"
+    },
+    {
+        "id": 3,
+        "name_surname": "Vilija Aleknaitė Abramikienė",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/vilija_aleknaite_abramikiene.jpg",
+        "birthday": "1957-05-4",
+        "sitting_position": 2,
+        "tenures": [
+            "1992",
+            "1996",
+            "1996",
+            "2000",
+            "2000",
+            "2004",
+            "2004",
+            "2008",
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=7229"
+    },
+    {
+        "id": 4,
+        "name_surname": "Arvydas Anušauskas",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/arvydas_anusauskas.jpg",
+        "birthday": "1963-09-29",
+        "sitting_position": 34,
+        "tenures": [
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=53916"
+    },
+    {
+        "id": 5,
+        "name_surname": "Aušrinė Armonaitė",
+        "faction": "Laisvės frakcija",
+        "faction_color": "#F6005E",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/ausrine_armonaite.jpg",
+        "birthday": "1989-05-26",
+        "sitting_position": 92,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79164"
+    },
+    {
+        "id": 6,
+        "name_surname": "Dalia Asanavičiūtė",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/dalia_asanaviciute.jpg",
+        "birthday": "1975-09-5",
+        "sitting_position": 55,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84599"
+    },
+    {
+        "id": 7,
+        "name_surname": "Audronius Ažubalis",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/audronius_azubalis.jpg",
+        "birthday": "1958-01-17",
+        "sitting_position": 13,
+        "tenures": [
+            "1996",
+            "2000",
+            "2004",
+            "2008",
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=7208"
+    },
+    {
+        "id": 8,
+        "name_surname": "Valius Ąžuolas",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/valius_azuolas.jpg",
+        "birthday": "1979-04-28",
+        "sitting_position": 134,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79165"
+    },
+    {
+        "id": 9,
+        "name_surname": "Andrius Bagdonas",
+        "faction": "Liberalų  sąjūdžio frakcija",
+        "faction_color": "#F49813",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/andrius_bagdonas.jpg",
+        "birthday": "1974-09-8",
+        "sitting_position": 19,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84600"
+    },
+    {
+        "id": 10,
+        "name_surname": "Vytautas Bakas",
+        "faction": "Demokratų frakcija „Vardan Lietuvos“",
+        "faction_color": "#0A1172",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/vytautas_bakas.jpg",
+        "birthday": "1977-03-26",
+        "sitting_position": 7,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=47890"
+    },
+    {
+        "id": 11,
+        "name_surname": "Zigmantas Balčytis",
+        "faction": "Demokratų frakcija „Vardan Lietuvos“",
+        "faction_color": "#0A1172",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/zigmantas_balcytis.jpg",
+        "birthday": "1953-11-16",
+        "sitting_position": 69,
+        "tenures": [
+            "2000",
+            "2004",
+            "2004",
+            "2008",
+            "2008",
+            "2012",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=47220"
+    },
+    {
+        "id": 12,
+        "name_surname": "Rima Baškienė",
+        "faction": "Demokratų frakcija „Vardan Lietuvos“",
+        "faction_color": "#0A1172",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/rima_baskiene.jpg",
+        "birthday": "1960-10-25",
+        "sitting_position": 97,
+        "tenures": [
+            "2004",
+            "2008",
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=26656"
+    },
+    {
+        "id": 13,
+        "name_surname": "Juozas Baublys",
+        "faction": "Liberalų  sąjūdžio frakcija",
+        "faction_color": "#F49813",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/juozas_baublys.jpg",
+        "birthday": "1961-11-19",
+        "sitting_position": 121,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=38418"
+    },
+    {
+        "id": 14,
+        "name_surname": "Tomas Bičiūnas",
+        "faction": "Lietuvos socialdemokratų partijos frakcija",
+        "faction_color": "#E80000",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/tomas_biciunas.jpg",
+        "birthday": "1978-01-18",
+        "sitting_position": 76,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=42717"
+    },
+    {
+        "id": 15,
+        "name_surname": "Agnė Bilotaitė",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/agne_bilotaite.jpg",
+        "birthday": "1982-01-29",
+        "sitting_position": 113,
+        "tenures": [
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 2,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=50482"
+    },
+    {
+        "id": 16,
+        "name_surname": "Rasa Budbergytė",
+        "faction": "Lietuvos socialdemokratų partijos frakcija",
+        "faction_color": "#E80000",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/rasa_budbergyte.jpg",
+        "birthday": "1960-05-8",
+        "sitting_position": 107,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=7363"
+    },
+    {
+        "id": 17,
+        "name_surname": "Valentinas Bukauskas",
+        "faction": "Darbo partijos  frakcija",
+        "faction_color": "#3370A8",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/valentinas_bukauskas.jpg",
+        "birthday": "1962-11-25",
+        "sitting_position": 129,
+        "tenures": [
+            "2004",
+            "2008",
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=47850"
+    },
+    {
+        "id": 18,
+        "name_surname": "Guoda Burokienė",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/guoda_burokiene.jpg",
+        "birthday": "1970-01-2",
+        "sitting_position": 26,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79167"
+    },
+    {
+        "id": 19,
+        "name_surname": "Algirdas Butkevičius",
+        "faction": "Demokratų frakcija „Vardan Lietuvos“",
+        "faction_color": "#0A1172",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/algirdas_butkevicius.jpg",
+        "birthday": "1958-11-19",
+        "sitting_position": 70,
+        "tenures": [
+            "1996",
+            "2000",
+            "2000",
+            "2004",
+            "2004",
+            "2008",
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=7194"
+    },
+    {
+        "id": 20,
+        "name_surname": "Antanas Čepononis",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/antanas_cepononis.jpg",
+        "birthday": "1959-11-5",
+        "sitting_position": 82,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=35554"
+    },
+    {
+        "id": 21,
+        "name_surname": "Viktorija Čmilytė-Nielsen",
+        "faction": "",
+        "faction_color": "#466883",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/viktorija_cmilyte_nielsen.jpg",
+        "birthday": "",
+        "sitting_position": 90,
+        "tenures": [
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 0,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=71563"
+    },
+    {
+        "id": 22,
+        "name_surname": "Morgana Danielė",
+        "faction": "Laisvės frakcija",
+        "faction_color": "#F6005E",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/morgana_daniele.jpg",
+        "birthday": "1988-08-17",
+        "sitting_position": 93,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84602"
+    },
+    {
+        "id": 23,
+        "name_surname": "Ewelina Dobrowolska",
+        "faction": "Laisvės frakcija",
+        "faction_color": "#F6005E",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/evelina_dobrovolska.jpg",
+        "birthday": "1988-08-16",
+        "sitting_position": 126,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84603"
+    },
+    {
+        "id": 24,
+        "name_surname": "Algimantas Dumbrava",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/algimantas_dumbrava.jpg",
+        "birthday": "1958-06-28",
+        "sitting_position": 71,
+        "tenures": [
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=36693"
+    },
+    {
+        "id": 25,
+        "name_surname": "Justas Džiugelis",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/justas_dziugelis.jpg",
+        "birthday": "1987-07-11",
+        "sitting_position": 110,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79168"
+    },
+    {
+        "id": 26,
+        "name_surname": "Viktoras Fiodorovas",
+        "faction": "Darbo partijos  frakcija",
+        "faction_color": "#3370A8",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/viktoras_fiodorovas.jpg",
+        "birthday": "1987-01-29",
+        "sitting_position": 127,
+        "tenures": [
+            "2012",
+            "2016",
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=73571"
+    },
+    {
+        "id": 27,
+        "name_surname": "Dainius Gaižauskas",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/dainius_gaizauskas.jpg",
+        "birthday": "1975-03-30",
+        "sitting_position": 135,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79169"
+    },
+    {
+        "id": 28,
+        "name_surname": "Vytautas Gapšys",
+        "faction": "Darbo partijos  frakcija",
+        "faction_color": "#3370A8",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/vytautas_gapsys.jpg",
+        "birthday": "1982-01-25",
+        "sitting_position": 96,
+        "tenures": [
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=47932"
+    },
+    {
+        "id": 29,
+        "name_surname": "Aidas Gedvilas",
+        "faction": "Mišri Seimo narių grupė",
+        "faction_color": "#868A8D",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/aidas_gedvilas.jpg",
+        "birthday": "1966-06-9",
+        "sitting_position": 41,
+        "tenures": [
+            "2004",
+            "2008",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=47855"
+    },
+    {
+        "id": 30,
+        "name_surname": "Aistė Gedvilienė",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/aiste_gedviliene.jpg",
+        "birthday": "1985-09-17",
+        "sitting_position": 12,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 6,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=73917"
+    },
+    {
+        "id": 31,
+        "name_surname": "Eugenijus Gentvilas",
+        "faction": "Liberalų  sąjūdžio frakcija",
+        "faction_color": "#F49813",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/eugenijus_gentvilas.jpg",
+        "birthday": "1960-03-14",
+        "sitting_position": 40,
+        "tenures": [
+            "1990",
+            "1992",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=146"
+    },
+    {
+        "id": 32,
+        "name_surname": "Simonas Gentvilas",
+        "faction": "Liberalų  sąjūdžio frakcija",
+        "faction_color": "#F49813",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/simonas_gentvilas.jpg",
+        "birthday": "1984-09-28",
+        "sitting_position": 61,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79170"
+    },
+    {
+        "id": 33,
+        "name_surname": "Vaida Giraitytė-Juškevičienė",
+        "faction": "Darbo partijos  frakcija",
+        "faction_color": "#3370A8",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/vaida_giraityte.jpg",
+        "birthday": "1983-02-9",
+        "sitting_position": 66,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 8,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=47909"
+    },
+    {
+        "id": 34,
+        "name_surname": "Ligita Girskienė",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/ligita_girskiene.jpg",
+        "birthday": "1979-12-12",
+        "sitting_position": 103,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79353"
+    },
+    {
+        "id": 35,
+        "name_surname": "Petras Gražulis",
+        "faction": "Lietuvos regionų frakcija",
+        "faction_color": "#B0ABAB",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/petras_grazulis.jpg",
+        "birthday": "",
+        "sitting_position": 49,
+        "tenures": [
+            "1996",
+            "2000",
+            "2000",
+            "2004",
+            "2004",
+            "2008",
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=7199"
+    },
+    {
+        "id": 36,
+        "name_surname": "Domas Griškevičius",
+        "faction": "Demokratų frakcija „Vardan Lietuvos“",
+        "faction_color": "#0A1172",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/domas_griskevicius.jpg",
+        "birthday": "1985-01-16",
+        "sitting_position": 23,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84604"
+    },
+    {
+        "id": 37,
+        "name_surname": "Jonas Gudauskas",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/jonas_gudauskas.jpg",
+        "birthday": "1970-10-21",
+        "sitting_position": 118,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=39474"
+    },
+    {
+        "id": 38,
+        "name_surname": "Irena Haase",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/irena_haase.jpg",
+        "birthday": "1960-08-10",
+        "sitting_position": 56,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=22294"
+    },
+    {
+        "id": 39,
+        "name_surname": "Angelė Jakavonytė",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/angele_jakavonyte.jpg",
+        "birthday": "",
+        "sitting_position": 60,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=22792"
+    },
+    {
+        "id": 40,
+        "name_surname": "Jonas Jarutis",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/jonas_jarutis.jpg",
+        "birthday": "1963-05-25",
+        "sitting_position": 25,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 0,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=17780"
+    },
+    {
+        "id": 41,
+        "name_surname": "Liudas Jonaitis",
+        "faction": "Lietuvos socialdemokratų partijos frakcija",
+        "faction_color": "#E80000",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/liudas_jonaitis.jpg",
+        "birthday": "1954-01-29",
+        "sitting_position": 106,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=34055"
+    },
+    {
+        "id": 42,
+        "name_surname": "Linas Jonauskas",
+        "faction": "Lietuvos socialdemokratų partijos frakcija",
+        "faction_color": "#E80000",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/linas_jonauskas.jpg",
+        "birthday": "1979-07-11",
+        "sitting_position": 50,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=47571"
+    },
+    {
+        "id": 43,
+        "name_surname": "Eugenijus Jovaiša",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/eugenijus_jovaisa.jpg",
+        "birthday": "1950-04-24",
+        "sitting_position": 99,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79173"
+    },
+    {
+        "id": 44,
+        "name_surname": "Sergejus Jovaiša",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/sergejus_jovaisa.jpg",
+        "birthday": "1954-12-17",
+        "sitting_position": 58,
+        "tenures": [
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=73573"
+    },
+    {
+        "id": 45,
+        "name_surname": "Vigilijus Jukna",
+        "faction": "Darbo partijos  frakcija",
+        "faction_color": "#3370A8",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/vigilijus_jukna.jpg",
+        "birthday": "1968-10-31",
+        "sitting_position": 42,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 6,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=73903"
+    },
+    {
+        "id": 46,
+        "name_surname": "Vytautas Juozapaitis",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/vytautas_juozapaitis.jpg",
+        "birthday": "1963-12-14",
+        "sitting_position": 32,
+        "tenures": [
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=73575"
+    },
+    {
+        "id": 47,
+        "name_surname": "Ričardas Juška",
+        "faction": "Liberalų  sąjūdžio frakcija",
+        "faction_color": "#F49813",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/ricardas_juska.jpg",
+        "birthday": "1960-05-11",
+        "sitting_position": 120,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=35799"
+    },
+    {
+        "id": 48,
+        "name_surname": "Ieva Kačinskaitė-Urbonienė",
+        "faction": "Darbo partijos  frakcija",
+        "faction_color": "#3370A8",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/ieva_kacinskaite_urboniene.jpg",
+        "birthday": "1990-08-25",
+        "sitting_position": 67,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=75270"
+    },
+    {
+        "id": 49,
+        "name_surname": "Vidmantas Kanopa",
+        "faction": "Lietuvos socialdemokratų partijos frakcija",
+        "faction_color": "#E80000",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/vidmantas_kanopa.jpg",
+        "birthday": "1956-06-3",
+        "sitting_position": 11,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=26483"
+    },
+    {
+        "id": 50,
+        "name_surname": "Laurynas Kasčiūnas",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/laurynas_kasciunas.jpg",
+        "birthday": "1982-01-8",
+        "sitting_position": 111,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 8,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=64701"
+    },
+    {
+        "id": 51,
+        "name_surname": "Dainius Kepenis",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/dainius_kepenis.jpg",
+        "birthday": "1952-08-18",
+        "sitting_position": 48,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79175"
+    },
+    {
+        "id": 52,
+        "name_surname": "Vytautas Kernagis",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/vytautas_kernagis.jpg",
+        "birthday": "1976-08-20",
+        "sitting_position": 87,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79176"
+    },
+    {
+        "id": 53,
+        "name_surname": "Gintautas Kindurys",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/gintautas_kindurys.jpg",
+        "birthday": "1971-05-22",
+        "sitting_position": 72,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79178"
+    },
+    {
+        "id": 54,
+        "name_surname": "Dainius Kreivys",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/dainius_kreivys.jpg",
+        "birthday": "1970-04-8",
+        "sitting_position": 35,
+        "tenures": [
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=24048"
+    },
+    {
+        "id": 55,
+        "name_surname": "Asta Kubilienė",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/asta_kubiliene.jpg",
+        "birthday": "1964-04-17",
+        "sitting_position": 136,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79179"
+    },
+    {
+        "id": 56,
+        "name_surname": "Linas Kukuraitis",
+        "faction": "Demokratų frakcija „Vardan Lietuvos“",
+        "faction_color": "#0A1172",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/linas_kukuraitis.jpg",
+        "birthday": "1978-05-22",
+        "sitting_position": 21,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 7,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84606"
+    },
+    {
+        "id": 57,
+        "name_surname": "Andrius Kupčinskas",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/andrius_kupcinskas.jpg",
+        "birthday": "1975-03-20",
+        "sitting_position": 36,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=36125"
+    },
+    {
+        "id": 58,
+        "name_surname": "Paulė Kuzmickienė",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/paule_kuzmickiene.jpg",
+        "birthday": "1978-04-30",
+        "sitting_position": 86,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 7,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=69153"
+    },
+    {
+        "id": 59,
+        "name_surname": "Deividas Labanavičius",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/deividas_labanavicius.jpg",
+        "birthday": "1984-09-18",
+        "sitting_position": 73,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=80224"
+    },
+    {
+        "id": 60,
+        "name_surname": "Gabrielius Landsbergis",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/gabrielius_landsbergis.jpg",
+        "birthday": "1982-01-7",
+        "sitting_position": 116,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 1,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79180"
+    },
+    {
+        "id": 61,
+        "name_surname": "Orinta Leiputė",
+        "faction": "Lietuvos socialdemokratų partijos frakcija",
+        "faction_color": "#E80000",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/orinta_leipute.jpg",
+        "birthday": "1973-01-19",
+        "sitting_position": 139,
+        "tenures": [
+            "2012",
+            "2016",
+            "2020",
+            "2024"
+        ],
+        "advisors": 6,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=15266"
+    },
+    {
+        "id": 62,
+        "name_surname": "Silva Lengvinienė",
+        "faction": "Laisvės frakcija",
+        "faction_color": "#F6005E",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/silva_lengviniene.jpg",
+        "birthday": "1960-07-15",
+        "sitting_position": 122,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 6,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=38801"
+    },
+    {
+        "id": 63,
+        "name_surname": "Arminas Lydeka",
+        "faction": "Liberalų  sąjūdžio frakcija",
+        "faction_color": "#F49813",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/arminas_lydeka.jpg",
+        "birthday": "1968-02-21",
+        "sitting_position": 89,
+        "tenures": [
+            "2000",
+            "2004",
+            "2004",
+            "2008",
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=47211"
+    },
+    {
+        "id": 64,
+        "name_surname": "Mindaugas Lingė",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/mindaugas_linge.jpg",
+        "birthday": "1981-11-18",
+        "sitting_position": 59,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 2,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84607"
+    },
+    {
+        "id": 65,
+        "name_surname": "Raimundas Lopata",
+        "faction": "Liberalų  sąjūdžio frakcija",
+        "faction_color": "#F49813",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/raimundas_lopata.jpg",
+        "birthday": "1965-04-10",
+        "sitting_position": 88,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84608"
+    },
+    {
+        "id": 66,
+        "name_surname": "Mykolas Majauskas",
+        "faction": "Mišri Seimo narių grupė",
+        "faction_color": "#868A8D",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/mykolas_majauskas.jpg",
+        "birthday": "1981-12-19",
+        "sitting_position": 38,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 1,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79182"
+    },
+    {
+        "id": 67,
+        "name_surname": "Matas Maldeikis",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/matas_maldeikis.jpg",
+        "birthday": "1980-06-19",
+        "sitting_position": 0,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=69276"
+    },
+    {
+        "id": 68,
+        "name_surname": "Kęstutis Masiulis",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/kestutis_masiulis.jpg",
+        "birthday": "1957-03-23",
+        "sitting_position": 3,
+        "tenures": [
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=47811"
+    },
+    {
+        "id": 69,
+        "name_surname": "Bronislovas Matelis",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/bronislovas_matelis.jpg",
+        "birthday": "1961-09-3",
+        "sitting_position": 17,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79130"
+    },
+    {
+        "id": 70,
+        "name_surname": "Marius Matijošaitis",
+        "faction": "Laisvės frakcija",
+        "faction_color": "#F6005E",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/marius_matijosaitis.jpg",
+        "birthday": "1992-08-28",
+        "sitting_position": 125,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84609"
+    },
+    {
+        "id": 71,
+        "name_surname": "Antanas Matulas",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/antanas_matulas.jpg",
+        "birthday": "1956-07-1",
+        "sitting_position": 54,
+        "tenures": [
+            "1996",
+            "2000",
+            "2004",
+            "2008",
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=7221"
+    },
+    {
+        "id": 72,
+        "name_surname": "Andrius Mazuronis",
+        "faction": "Darbo partijos  frakcija",
+        "faction_color": "#3370A8",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/andrius_mazuronis.jpg",
+        "birthday": "1979-07-13",
+        "sitting_position": 128,
+        "tenures": [
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 0,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=53932"
+    },
+    {
+        "id": 73,
+        "name_surname": "Kęstutis Mažeika",
+        "faction": "Demokratų frakcija „Vardan Lietuvos“",
+        "faction_color": "#0A1172",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/kestutis_mazeika.jpg",
+        "birthday": "1982-04-28",
+        "sitting_position": 44,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79131"
+    },
+    {
+        "id": 74,
+        "name_surname": "Rūta Miliūtė",
+        "faction": "Demokratų frakcija „Vardan Lietuvos“",
+        "faction_color": "#0A1172",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/ruta_miliute.jpg",
+        "birthday": "",
+        "sitting_position": 24,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79132"
+    },
+    {
+        "id": 75,
+        "name_surname": "Vytautas Mitalas",
+        "faction": "Laisvės frakcija",
+        "faction_color": "#F6005E",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/vytautas_mitalas.jpg",
+        "birthday": "1989-06-16",
+        "sitting_position": 63,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 0,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=73919"
+    },
+    {
+        "id": 76,
+        "name_surname": "Laima Mogenienė",
+        "faction": "Demokratų frakcija „Vardan Lietuvos“",
+        "faction_color": "#0A1172",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/laima_mogeniene.jpg",
+        "birthday": "1959-10-7",
+        "sitting_position": 98,
+        "tenures": [
+            "2004",
+            "2008",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=47804"
+    },
+    {
+        "id": 77,
+        "name_surname": "Radvilė Morkūnaitė-Mikulėnienė",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/radvile_morkunaite_mikuleniene.jpg",
+        "birthday": "1984-01-2",
+        "sitting_position": 114,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 0,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=48538"
+    },
+    {
+        "id": 78,
+        "name_surname": "Laima Nagienė",
+        "faction": "Demokratų frakcija „Vardan Lietuvos“",
+        "faction_color": "#0A1172",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/laima_nagiene.jpg",
+        "birthday": "1957-03-17",
+        "sitting_position": 6,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84610"
+    },
+    {
+        "id": 79,
+        "name_surname": "Andrius Navickas",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/andrius_navickas.jpg",
+        "birthday": "1972-03-9",
+        "sitting_position": 108,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=21910"
+    },
+    {
+        "id": 80,
+        "name_surname": "Monika Navickienė",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/monika_navickiene.jpg",
+        "birthday": "1981-06-25",
+        "sitting_position": 14,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=73706"
+    },
+    {
+        "id": 81,
+        "name_surname": "Arvydas Nekrošius",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/arvydas_nekrosius.jpg",
+        "birthday": "1984-03-10",
+        "sitting_position": 101,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 6,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79134"
+    },
+    {
+        "id": 82,
+        "name_surname": "Aušrinė Norkienė",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/ausrine_norkiene.jpg",
+        "birthday": "1975-01-12",
+        "sitting_position": 100,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79136"
+    },
+    {
+        "id": 83,
+        "name_surname": "Česlav Olševski",
+        "faction": "Lietuvos regionų frakcija",
+        "faction_color": "#B0ABAB",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/ceslav_olsevski.jpg",
+        "birthday": "1961-06-26",
+        "sitting_position": 9,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79137"
+    },
+    {
+        "id": 84,
+        "name_surname": "Monika Ošmianskienė",
+        "faction": "Laisvės frakcija",
+        "faction_color": "#F6005E",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/monika_osmianskiene.jpg",
+        "birthday": "1978-12-26",
+        "sitting_position": 124,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84611"
+    },
+    {
+        "id": 85,
+        "name_surname": "Ieva Pakarklytė",
+        "faction": "Laisvės frakcija",
+        "faction_color": "#F6005E",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/ieva_pakarklyte.jpg",
+        "birthday": "1989-08-24",
+        "sitting_position": 94,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=73739"
+    },
+    {
+        "id": 86,
+        "name_surname": "Andrius Palionis",
+        "faction": "Lietuvos regionų frakcija",
+        "faction_color": "#B0ABAB",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/andrius_palionis.jpg",
+        "birthday": "1975-06-5",
+        "sitting_position": 105,
+        "tenures": [
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=73578"
+    },
+    {
+        "id": 87,
+        "name_surname": "Gintautas Paluckas",
+        "faction": "Lietuvos socialdemokratų partijos frakcija",
+        "faction_color": "#E80000",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/gintautas_paluckas.jpg",
+        "birthday": "1979-08-19",
+        "sitting_position": 51,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84612"
+    },
+    {
+        "id": 88,
+        "name_surname": "Žygimantas Pavilionis",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/zygimantas_pavilionis.jpg",
+        "birthday": "1971-07-22",
+        "sitting_position": 112,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 2,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79139"
+    },
+    {
+        "id": 89,
+        "name_surname": "Audrius Petrošius",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/audrius_petrosius.jpg",
+        "birthday": "1988-05-4",
+        "sitting_position": 4,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 6,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84614"
+    },
+    {
+        "id": 90,
+        "name_surname": "Beata Pietkiewicz",
+        "faction": "Lietuvos regionų frakcija",
+        "faction_color": "#B0ABAB",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/beata_petkevic.jpg",
+        "birthday": "1981-06-25",
+        "sitting_position": 28,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84613"
+    },
+    {
+        "id": 91,
+        "name_surname": "Jonas Pinskus",
+        "faction": "Lietuvos regionų frakcija",
+        "faction_color": "#B0ABAB",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/jonas_pinskus.jpg",
+        "birthday": "1959-09-22",
+        "sitting_position": 138,
+        "tenures": [
+            "2004",
+            "2008",
+            "2008",
+            "2012",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=47959"
+    },
+    {
+        "id": 92,
+        "name_surname": "Liuda Pociūnienė",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/liuda_pociuniene.jpg",
+        "birthday": "1958-06-7",
+        "sitting_position": 79,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84615"
+    },
+    {
+        "id": 93,
+        "name_surname": "Arvydas Pocius",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/arvydas_pocius.jpg",
+        "birthday": "1957-05-14",
+        "sitting_position": 85,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=83614"
+    },
+    {
+        "id": 94,
+        "name_surname": "Viktoras Pranckietis",
+        "faction": "",
+        "faction_color": "",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/viktoras_pranckietis.jpg",
+        "birthday": "1958-07-26",
+        "sitting_position": 147,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 2,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79141"
+    },
+    {
+        "id": 95,
+        "name_surname": "Mindaugas Puidokas",
+        "faction": "Mišri Seimo narių grupė",
+        "faction_color": "#868A8D",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/mindaugas_puidokas.jpg",
+        "birthday": "1979-03-19",
+        "sitting_position": 65,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 2,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79142"
+    },
+    {
+        "id": 96,
+        "name_surname": "Edmundas Pupinis",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/edmundas_pupinis.jpg",
+        "birthday": "1964-08-9",
+        "sitting_position": 31,
+        "tenures": [
+            "2004",
+            "2008",
+            "2008",
+            "2012",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=36392"
+    },
+    {
+        "id": 97,
+        "name_surname": "Valdas Rakutis",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/valdas_rakutis.jpg",
+        "birthday": "1969-06-17",
+        "sitting_position": 52,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84616"
+    },
+    {
+        "id": 98,
+        "name_surname": "Tomas Vytautas Raskevičius",
+        "faction": "Laisvės frakcija",
+        "faction_color": "#F6005E",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/tomas_vytautas_raskevicius.jpg",
+        "birthday": "1989-01-6",
+        "sitting_position": 91,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84617"
+    },
+    {
+        "id": 99,
+        "name_surname": "Jurgis Razma",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/jurgis_razma.jpg",
+        "birthday": "1958-03-14",
+        "sitting_position": 30,
+        "tenures": [
+            "1996",
+            "2000",
+            "2000",
+            "2004",
+            "2004",
+            "2008",
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 0,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=7242"
+    },
+    {
+        "id": 100,
+        "name_surname": "Edita Rudelienė",
+        "faction": "Liberalų  sąjūdžio frakcija",
+        "faction_color": "#F49813",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/edita_rudeliene.jpg",
+        "birthday": "1978-10-19",
+        "sitting_position": 20,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=86469"
+    },
+    {
+        "id": 101,
+        "name_surname": "Julius Sabatauskas",
+        "faction": "Lietuvos socialdemokratų partijos frakcija",
+        "faction_color": "#E80000",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/julius_sabatauskas.jpg",
+        "birthday": "1958-04-1",
+        "sitting_position": 141,
+        "tenures": [
+            "2000",
+            "2004",
+            "2004",
+            "2008",
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 0,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=23521"
+    },
+    {
+        "id": 102,
+        "name_surname": "Eugenijus Sabutis",
+        "faction": "Lietuvos socialdemokratų partijos frakcija",
+        "faction_color": "#E80000",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/eugenijus_sabutis.jpg",
+        "birthday": "1975-09-10",
+        "sitting_position": 29,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84618"
+    },
+    {
+        "id": 103,
+        "name_surname": "Paulius Saudargas",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/paulius_saudargas.jpg",
+        "birthday": "1979-03-13",
+        "sitting_position": 57,
+        "tenures": [
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 0,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=53899"
+    },
+    {
+        "id": 104,
+        "name_surname": "Lukas Savickas",
+        "faction": "Demokratų frakcija „Vardan Lietuvos“",
+        "faction_color": "#0A1172",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/lukas_savickas.jpg",
+        "birthday": "1990-04-12",
+        "sitting_position": 132,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84619"
+    },
+    {
+        "id": 105,
+        "name_surname": "Jurgita Sejonienė",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/jurgita_sejoniene.jpg",
+        "birthday": "1981-04-19",
+        "sitting_position": 84,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84620"
+    },
+    {
+        "id": 106,
+        "name_surname": "Algirdas Sysas",
+        "faction": "Lietuvos socialdemokratų partijos frakcija",
+        "faction_color": "#E80000",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/algirdas_sysas.jpg",
+        "birthday": "1954-03-5",
+        "sitting_position": 140,
+        "tenures": [
+            "1996",
+            "2000",
+            "2000",
+            "2004",
+            "2004",
+            "2008",
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=7252"
+    },
+    {
+        "id": 107,
+        "name_surname": "Gintarė Skaistė",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/gintare_skaiste.jpg",
+        "birthday": "1981-08-4",
+        "sitting_position": 15,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 6,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=71923"
+    },
+    {
+        "id": 108,
+        "name_surname": "Artūras Skardžius",
+        "faction": "Darbo partijos  frakcija",
+        "faction_color": "#3370A8",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/arturas_skardzius.jpg",
+        "birthday": "1960-11-17",
+        "sitting_position": 95,
+        "tenures": [
+            "2000",
+            "2004",
+            "2004",
+            "2008",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=47229"
+    },
+    {
+        "id": 109,
+        "name_surname": "Mindaugas Skritulskas",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/mindaugas_skritulskas.jpg",
+        "birthday": "1975-02-1",
+        "sitting_position": 37,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84621"
+    },
+    {
+        "id": 110,
+        "name_surname": "Saulius Skvernelis",
+        "faction": "Demokratų frakcija „Vardan Lietuvos“",
+        "faction_color": "#0A1172",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/saulius_skvernelis.jpg",
+        "birthday": "1970-07-23",
+        "sitting_position": 130,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79145"
+    },
+    {
+        "id": 111,
+        "name_surname": "Linas Slušnys",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/linas_slusnys.jpg",
+        "birthday": "1968-03-17",
+        "sitting_position": 53,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 7,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84622"
+    },
+    {
+        "id": 112,
+        "name_surname": "Kazys Starkevičius",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/kazys_starkevicius.jpg",
+        "birthday": "1956-07-23",
+        "sitting_position": 109,
+        "tenures": [
+            "2004",
+            "2008",
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 7,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=47839"
+    },
+    {
+        "id": 113,
+        "name_surname": "Algirdas Stončaitis",
+        "faction": "Demokratų frakcija „Vardan Lietuvos“",
+        "faction_color": "#0A1172",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/algirdas_stoncaitis.jpg",
+        "birthday": "1962-04-9",
+        "sitting_position": 131,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 2,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84623"
+    },
+    {
+        "id": 114,
+        "name_surname": "Zenonas Streikus",
+        "faction": "Demokratų frakcija „Vardan Lietuvos“",
+        "faction_color": "#0A1172",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/zenonas_streikus.jpg",
+        "birthday": "1954-12-23",
+        "sitting_position": 68,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79149"
+    },
+    {
+        "id": 115,
+        "name_surname": "Algis Strelčiūnas",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/algis_strelciunas.jpg",
+        "birthday": "1960-09-7",
+        "sitting_position": 78,
+        "tenures": [
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 2,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=73585"
+    },
+    {
+        "id": 116,
+        "name_surname": "Giedrius Surplys",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/giedrius_surplys.jpg",
+        "birthday": "1980-05-26",
+        "sitting_position": 27,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 7,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84624"
+    },
+    {
+        "id": 117,
+        "name_surname": "Dovilė Šakalienė",
+        "faction": "Lietuvos socialdemokratų partijos frakcija",
+        "faction_color": "#E80000",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/dovile_sakaliene.jpg",
+        "birthday": "1978-06-1",
+        "sitting_position": 77,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79150"
+    },
+    {
+        "id": 118,
+        "name_surname": "Rimantė Šalaševičiūtė",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/rimante_salaseviciute.jpg",
+        "birthday": "1954-02-10",
+        "sitting_position": 137,
+        "tenures": [
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=51970"
+    },
+    {
+        "id": 119,
+        "name_surname": "Robertas Šarknickas",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/robertas_sarknickas.jpg",
+        "birthday": "1974-12-7",
+        "sitting_position": 47,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79151"
+    },
+    {
+        "id": 120,
+        "name_surname": "Stasys Šedbaras",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/stasys_sedbaras.jpg",
+        "birthday": "1958-02-10",
+        "sitting_position": 16,
+        "tenures": [
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=7448"
+    },
+    {
+        "id": 121,
+        "name_surname": "Ingrida Šimonytė",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/ingrida_simonyte.jpg",
+        "birthday": "1974-11-15",
+        "sitting_position": 115,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 1,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=56180"
+    },
+    {
+        "id": 122,
+        "name_surname": "Agnė Širinskienė",
+        "faction": "Lietuvos regionų frakcija",
+        "faction_color": "#B0ABAB",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/agne_sirinskiene.jpg",
+        "birthday": "1975-11-9",
+        "sitting_position": 74,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79153"
+    },
+    {
+        "id": 123,
+        "name_surname": "Jurgita Šiugždinienė",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/jurgita_siugzdiniene.jpg",
+        "birthday": "1972-03-1",
+        "sitting_position": 83,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84625"
+    },
+    {
+        "id": 124,
+        "name_surname": "Rita Tamašunienė",
+        "faction": "Lietuvos regionų frakcija",
+        "faction_color": "#B0ABAB",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/rita_tamasuniene.jpg",
+        "birthday": "1973-09-27",
+        "sitting_position": 8,
+        "tenures": [
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=73586"
+    },
+    {
+        "id": 125,
+        "name_surname": "Vilija Targamadzė",
+        "faction": "Demokratų frakcija „Vardan Lietuvos“",
+        "faction_color": "#0A1172",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/vilija_targamadze.jpg",
+        "birthday": "1958-03-31",
+        "sitting_position": 45,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 6,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84626"
+    },
+    {
+        "id": 126,
+        "name_surname": "Tomas Tomilinas",
+        "faction": "Demokratų frakcija „Vardan Lietuvos“",
+        "faction_color": "#0A1172",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/tomas_tomilinas.jpg",
+        "birthday": "1983-04-22",
+        "sitting_position": 22,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=48049"
+    },
+    {
+        "id": 127,
+        "name_surname": "Stasys Tumėnas",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/stasys_tumenas.jpg",
+        "birthday": "1958-05-7",
+        "sitting_position": 46,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 3,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79154"
+    },
+    {
+        "id": 128,
+        "name_surname": "Justinas Urbanavičius",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/justinas_urbanavicius.jpg",
+        "birthday": "1982-01-1",
+        "sitting_position": 18,
+        "tenures": [
+            "2008",
+            "2012",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=53910"
+    },
+    {
+        "id": 129,
+        "name_surname": "Romualdas Vaitkus",
+        "faction": "Liberalų  sąjūdžio frakcija",
+        "faction_color": "#F49813",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/romualdas_vaitkus.jpg",
+        "birthday": "1966-04-22",
+        "sitting_position": 39,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84627"
+    },
+    {
+        "id": 130,
+        "name_surname": "Arūnas Valinskas",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/arunas_valinskas.jpg",
+        "birthday": "1989-10-10",
+        "sitting_position": 1,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=81543"
+    },
+    {
+        "id": 131,
+        "name_surname": "Valdemaras Valkiūnas",
+        "faction": "Darbo partijos  frakcija",
+        "faction_color": "#3370A8",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/valdemaras_valkiunas.jpg",
+        "birthday": "1959-08-26",
+        "sitting_position": 43,
+        "tenures": [
+            "2008",
+            "2012",
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=53907"
+    },
+    {
+        "id": 132,
+        "name_surname": "Jonas Varkalys",
+        "faction": "Liberalų  sąjūdžio frakcija",
+        "faction_color": "#F49813",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/jonas_varkalys.jpg",
+        "birthday": "1950-08-28",
+        "sitting_position": 119,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=34869"
+    },
+    {
+        "id": 133,
+        "name_surname": "Juozas Varžgalys",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/juozas_varzgalys.jpg",
+        "birthday": "1956-10-12",
+        "sitting_position": 133,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 7,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79157"
+    },
+    {
+        "id": 134,
+        "name_surname": "Aurelijus Veryga",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/aurelijus_veryga.jpg",
+        "birthday": "1976-08-8",
+        "sitting_position": 102,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=79159"
+    },
+    {
+        "id": 135,
+        "name_surname": "Kęstutis Vilkauskas",
+        "faction": "Lietuvos socialdemokratų partijos frakcija",
+        "faction_color": "#E80000",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/kestutis_vilkauskas.jpg",
+        "birthday": "1969-06-19",
+        "sitting_position": 10,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=22886"
+    },
+    {
+        "id": 136,
+        "name_surname": "Antanas Vinkus",
+        "faction": "Lietuvos valstiečių ir žaliųjų sąjungos frakcija",
+        "faction_color": "#92D051",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/antanas_vinkus.jpg",
+        "birthday": "1942-12-25",
+        "sitting_position": 104,
+        "tenures": [
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=272"
+    },
+    {
+        "id": 137,
+        "name_surname": "Andrius Vyšniauskas",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/andrius_vysniauskas.jpg",
+        "birthday": "1987-12-9",
+        "sitting_position": 117,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=73700"
+    },
+    {
+        "id": 138,
+        "name_surname": "Emanuelis Zingeris",
+        "faction": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+        "faction_color": "#00A59B",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/emanuelis_zingeris.jpg",
+        "birthday": "1957-07-16",
+        "sitting_position": 81,
+        "tenures": [
+            "1990",
+            "1992",
+            "1992",
+            "1996",
+            "1996",
+            "2000",
+            "2004",
+            "2008",
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=43"
+    },
+    {
+        "id": 139,
+        "name_surname": "Remigijus Žemaitaitis",
+        "faction": "Lietuvos regionų frakcija",
+        "faction_color": "#B0ABAB",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/remigijus_zemaitaitis.jpg",
+        "birthday": "1982-05-30",
+        "sitting_position": 75,
+        "tenures": [
+            "2008",
+            "2012",
+            "2012",
+            "2016",
+            "2016",
+            "2020",
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=65703"
+    },
+    {
+        "id": 140,
+        "name_surname": "Artūras Žukauskas",
+        "faction": "Laisvės frakcija",
+        "faction_color": "#F6005E",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/arturas_zukauskas.jpg",
+        "birthday": "1956-11-22",
+        "sitting_position": 64,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 4,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84628"
+    }
+]

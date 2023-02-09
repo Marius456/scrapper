@@ -1,0 +1,2677 @@
+[
+    {
+        "id": 1,
+        "politican_id": 1,
+        "name_surname": "Agnė GABRĖNIENĖ"
+    },
+    {
+        "id": 2,
+        "politican_id": 1,
+        "name_surname": "Neringa KLENIAUSKIENĖ"
+    },
+    {
+        "id": 3,
+        "politican_id": 1,
+        "name_surname": "Agnė OBELENYTĖ"
+    },
+    {
+        "id": 4,
+        "politican_id": 1,
+        "name_surname": "Mantvydas ŠEMETA"
+    },
+    {
+        "id": 5,
+        "politican_id": 1,
+        "name_surname": "Aistė VIERAITYTĖ"
+    },
+    {
+        "id": 6,
+        "politican_id": 2,
+        "name_surname": "Marijus GAILIUS"
+    },
+    {
+        "id": 7,
+        "politican_id": 2,
+        "name_surname": "Raimonda PONELYTĖ"
+    },
+    {
+        "id": 8,
+        "politican_id": 2,
+        "name_surname": "Gintaras VAIČEKAUSKAS"
+    },
+    {
+        "id": 9,
+        "politican_id": 2,
+        "name_surname": "Dalia VILIŪNIENĖ"
+    },
+    {
+        "id": 10,
+        "politican_id": 3,
+        "name_surname": "Augminas PETRONIS"
+    },
+    {
+        "id": 11,
+        "politican_id": 3,
+        "name_surname": "Janina ŠNIAUKŠTIENĖ"
+    },
+    {
+        "id": 12,
+        "politican_id": 3,
+        "name_surname": "Jovita VIČIENĖ"
+    },
+    {
+        "id": 13,
+        "politican_id": 4,
+        "name_surname": "Rasa DUOBAITĖ-BUMBULIENĖ"
+    },
+    {
+        "id": 14,
+        "politican_id": 4,
+        "name_surname": "Vilius KAMINSKAS (apygardoje)"
+    },
+    {
+        "id": 15,
+        "politican_id": 4,
+        "name_surname": "Meda TALEIKYTĖ"
+    },
+    {
+        "id": 16,
+        "politican_id": 5,
+        "name_surname": "Ignas BAUŽYS"
+    },
+    {
+        "id": 17,
+        "politican_id": 5,
+        "name_surname": "Robertas ČEPULIS"
+    },
+    {
+        "id": 18,
+        "politican_id": 5,
+        "name_surname": "Asta PADAGAITĖ"
+    },
+    {
+        "id": 19,
+        "politican_id": 6,
+        "name_surname": "Elena NARKEVIČIŪTĖ"
+    },
+    {
+        "id": 20,
+        "politican_id": 6,
+        "name_surname": "Jolita PELECKIENĖ"
+    },
+    {
+        "id": 21,
+        "politican_id": 6,
+        "name_surname": "Simona ŠIMANSKIENĖ"
+    },
+    {
+        "id": 22,
+        "politican_id": 6,
+        "name_surname": "Larisa USTINAVIČIENĖ"
+    },
+    {
+        "id": 23,
+        "politican_id": 7,
+        "name_surname": "Margarita BUTKIENĖ"
+    },
+    {
+        "id": 24,
+        "politican_id": 7,
+        "name_surname": "Lukas KRIŠČIŪNAS"
+    },
+    {
+        "id": 25,
+        "politican_id": 7,
+        "name_surname": "Daiva NASEVIČIENĖ"
+    },
+    {
+        "id": 26,
+        "politican_id": 8,
+        "name_surname": "Ernesta GRUBINSKAITĖ"
+    },
+    {
+        "id": 27,
+        "politican_id": 8,
+        "name_surname": "Birutė Elena JAKAITIENĖ"
+    },
+    {
+        "id": 28,
+        "politican_id": 8,
+        "name_surname": "Levutė STANIUVIENĖ (apygardoje)"
+    },
+    {
+        "id": 29,
+        "politican_id": 8,
+        "name_surname": "Reda ŠIAULIENĖ"
+    },
+    {
+        "id": 30,
+        "politican_id": 9,
+        "name_surname": "Berta GRIGALIŪNĖ"
+    },
+    {
+        "id": 31,
+        "politican_id": 9,
+        "name_surname": "Agnė JENČAUSKIENĖ"
+    },
+    {
+        "id": 32,
+        "politican_id": 9,
+        "name_surname": "Aušrinė LUKOŠIŪTĖ-ALEKSANDRAVIČIENĖ"
+    },
+    {
+        "id": 33,
+        "politican_id": 9,
+        "name_surname": "Marcijonas URMONAS"
+    },
+    {
+        "id": 34,
+        "politican_id": 10,
+        "name_surname": "Jūratė BUTĖNIENĖ (apygardoje)"
+    },
+    {
+        "id": 35,
+        "politican_id": 10,
+        "name_surname": "Vytautas LAMAUSKAS"
+    },
+    {
+        "id": 36,
+        "politican_id": 10,
+        "name_surname": "Tomas MAČIULAITIS"
+    },
+    {
+        "id": 37,
+        "politican_id": 10,
+        "name_surname": "Indrė MIKELIONYTĖ-PRANCULEVIČIENĖ"
+    },
+    {
+        "id": 38,
+        "politican_id": 11,
+        "name_surname": "Vaidutė JAKŠTONIENĖ"
+    },
+    {
+        "id": 39,
+        "politican_id": 11,
+        "name_surname": "Stasė LATVELIENĖ"
+    },
+    {
+        "id": 40,
+        "politican_id": 11,
+        "name_surname": "Arūnas PUPŠYS"
+    },
+    {
+        "id": 41,
+        "politican_id": 12,
+        "name_surname": "Birutė BANIENĖ (apygardoje)"
+    },
+    {
+        "id": 42,
+        "politican_id": 12,
+        "name_surname": "Ada GRAKAUSKIENĖ (apygardoje)"
+    },
+    {
+        "id": 43,
+        "politican_id": 12,
+        "name_surname": "Ingrida TAMULEVIČIŪTĖ"
+    },
+    {
+        "id": 44,
+        "politican_id": 13,
+        "name_surname": "Virginija AUKŠTUOLIENĖ"
+    },
+    {
+        "id": 45,
+        "politican_id": 13,
+        "name_surname": "Danutė KARALEVIČIENĖ"
+    },
+    {
+        "id": 46,
+        "politican_id": 13,
+        "name_surname": "Jonas LIESYS"
+    },
+    {
+        "id": 47,
+        "politican_id": 13,
+        "name_surname": "Irena RATKIENĖ"
+    },
+    {
+        "id": 48,
+        "politican_id": 13,
+        "name_surname": "Rasa TAMULIENĖ"
+    },
+    {
+        "id": 49,
+        "politican_id": 14,
+        "name_surname": "Indrius BOLISAS (apygardoje)"
+    },
+    {
+        "id": 50,
+        "politican_id": 14,
+        "name_surname": "Rimantas DILIŪNAS"
+    },
+    {
+        "id": 51,
+        "politican_id": 14,
+        "name_surname": "Vaida KRASAUSKIENĖ (apygardoje)"
+    },
+    {
+        "id": 52,
+        "politican_id": 14,
+        "name_surname": "Erika ŠUTJEVIENĖ"
+    },
+    {
+        "id": 53,
+        "politican_id": 14,
+        "name_surname": "Jonas VAZGYS"
+    },
+    {
+        "id": 54,
+        "politican_id": 15,
+        "name_surname": "Eglė GRAJAUSKIENĖ"
+    },
+    {
+        "id": 55,
+        "politican_id": 15,
+        "name_surname": "Monika PUČKYTĖ"
+    },
+    {
+        "id": 56,
+        "politican_id": 16,
+        "name_surname": "Alina MAČIULYTĖ"
+    },
+    {
+        "id": 57,
+        "politican_id": 16,
+        "name_surname": "Liudvika RASLANIENĖ"
+    },
+    {
+        "id": 58,
+        "politican_id": 16,
+        "name_surname": "Tadas VINOKUR"
+    },
+    {
+        "id": 59,
+        "politican_id": 16,
+        "name_surname": "Jūratė ZABIELAITĖ"
+    },
+    {
+        "id": 60,
+        "politican_id": 17,
+        "name_surname": "Evita Ieva FEDARAVIČIŪTĖ"
+    },
+    {
+        "id": 61,
+        "politican_id": 17,
+        "name_surname": "Audrutė JURKONIENĖ (apygardoje)"
+    },
+    {
+        "id": 62,
+        "politican_id": 17,
+        "name_surname": "Aušra KARVELIENĖ (apygardoje)"
+    },
+    {
+        "id": 63,
+        "politican_id": 17,
+        "name_surname": "Eglė LUBIENĖ (apygardoje)"
+    },
+    {
+        "id": 64,
+        "politican_id": 18,
+        "name_surname": "Janė KEKIENĖ"
+    },
+    {
+        "id": 65,
+        "politican_id": 18,
+        "name_surname": "Vaida PEČELIŪNAITĖ (apygardoje)"
+    },
+    {
+        "id": 66,
+        "politican_id": 18,
+        "name_surname": "Kornelija PETRAVIČIENĖ"
+    },
+    {
+        "id": 67,
+        "politican_id": 19,
+        "name_surname": "Vytenis ČEKANAVIČIUS"
+    },
+    {
+        "id": 68,
+        "politican_id": 19,
+        "name_surname": "Irena RAMELYTĖ"
+    },
+    {
+        "id": 69,
+        "politican_id": 19,
+        "name_surname": "Valdas RIKLIUS"
+    },
+    {
+        "id": 70,
+        "politican_id": 20,
+        "name_surname": "Monika ANZAITĖ"
+    },
+    {
+        "id": 71,
+        "politican_id": 20,
+        "name_surname": "Ilona GVAZDŽIAUSKIENĖ"
+    },
+    {
+        "id": 72,
+        "politican_id": 20,
+        "name_surname": "Regina KARAŠAUSKYTĖ"
+    },
+    {
+        "id": 73,
+        "politican_id": 22,
+        "name_surname": "Gabrielė GALINYTĖ"
+    },
+    {
+        "id": 74,
+        "politican_id": 22,
+        "name_surname": "Vilija GUCEVIČIŪTĖ"
+    },
+    {
+        "id": 75,
+        "politican_id": 22,
+        "name_surname": "Agnė TAMOŠIŪNĖ"
+    },
+    {
+        "id": 76,
+        "politican_id": 23,
+        "name_surname": "Akvilė BRAZYTĖ"
+    },
+    {
+        "id": 77,
+        "politican_id": 23,
+        "name_surname": "Matas PETROKAITIS"
+    },
+    {
+        "id": 78,
+        "politican_id": 23,
+        "name_surname": "Žaneta ŠEVČENKO"
+    },
+    {
+        "id": 79,
+        "politican_id": 24,
+        "name_surname": "Svetlana BABUJEVA"
+    },
+    {
+        "id": 80,
+        "politican_id": 24,
+        "name_surname": "Ieva ČERNECKIENĖ"
+    },
+    {
+        "id": 81,
+        "politican_id": 24,
+        "name_surname": "Regina RAČKAUSKIENĖ"
+    },
+    {
+        "id": 82,
+        "politican_id": 25,
+        "name_surname": "Rūta JADZEVIČIŪTĖ"
+    },
+    {
+        "id": 83,
+        "politican_id": 25,
+        "name_surname": "Eduardas JAROŠEVIČIUS"
+    },
+    {
+        "id": 84,
+        "politican_id": 25,
+        "name_surname": "Eglė ZUPKAITIENĖ"
+    },
+    {
+        "id": 85,
+        "politican_id": 26,
+        "name_surname": "Laura ČIŽIŪTĖ"
+    },
+    {
+        "id": 86,
+        "politican_id": 26,
+        "name_surname": "Lina JUDICKIENĖ"
+    },
+    {
+        "id": 87,
+        "politican_id": 26,
+        "name_surname": "Edita PARKAUSKĖ"
+    },
+    {
+        "id": 88,
+        "politican_id": 26,
+        "name_surname": "Ingrida VENCIUVIENĖ"
+    },
+    {
+        "id": 89,
+        "politican_id": 26,
+        "name_surname": "Ramūnas ŽUKAS"
+    },
+    {
+        "id": 90,
+        "politican_id": 27,
+        "name_surname": "Edgaras AGANAUSKAS"
+    },
+    {
+        "id": 91,
+        "politican_id": 27,
+        "name_surname": "Alma BIELIAUSKAITĖ (apygardoje)"
+    },
+    {
+        "id": 92,
+        "politican_id": 27,
+        "name_surname": "Gražina GRABAUSKIENĖ"
+    },
+    {
+        "id": 93,
+        "politican_id": 27,
+        "name_surname": "Erika NAIKELIENĖ (apygardoje)"
+    },
+    {
+        "id": 94,
+        "politican_id": 28,
+        "name_surname": "Vilija FILIPOVIČIENĖ"
+    },
+    {
+        "id": 95,
+        "politican_id": 28,
+        "name_surname": "Olesia LAVRENOVA"
+    },
+    {
+        "id": 96,
+        "politican_id": 28,
+        "name_surname": "Vaidas PAVILONIS"
+    },
+    {
+        "id": 97,
+        "politican_id": 28,
+        "name_surname": "Brigita PETROŠIŪTĖ"
+    },
+    {
+        "id": 98,
+        "politican_id": 28,
+        "name_surname": "Violeta SAULEVIČIENĖ"
+    },
+    {
+        "id": 99,
+        "politican_id": 29,
+        "name_surname": "Aurelija ČIŽAUSKAITĖ-BUTKALIUK"
+    },
+    {
+        "id": 100,
+        "politican_id": 29,
+        "name_surname": "Marina ISRAJELIAN"
+    },
+    {
+        "id": 101,
+        "politican_id": 29,
+        "name_surname": "Irma JOSEFSSON"
+    },
+    {
+        "id": 102,
+        "politican_id": 29,
+        "name_surname": "Deividas VAŠKELIS"
+    },
+    {
+        "id": 103,
+        "politican_id": 30,
+        "name_surname": "Tomas BERNOTAS"
+    },
+    {
+        "id": 104,
+        "politican_id": 30,
+        "name_surname": "Akvilė JUREVIČIŪTĖ"
+    },
+    {
+        "id": 105,
+        "politican_id": 30,
+        "name_surname": "Asta KAŠĖTIENĖ"
+    },
+    {
+        "id": 106,
+        "politican_id": 30,
+        "name_surname": "Gitana MATIEKUVIENĖ"
+    },
+    {
+        "id": 107,
+        "politican_id": 30,
+        "name_surname": "Edgaras MURNIKOVAS (apygardoje)"
+    },
+    {
+        "id": 108,
+        "politican_id": 30,
+        "name_surname": "Aušra URBONIENĖ"
+    },
+    {
+        "id": 109,
+        "politican_id": 31,
+        "name_surname": "Marijus GAILIUS"
+    },
+    {
+        "id": 110,
+        "politican_id": 31,
+        "name_surname": "Andrius PACHAREVAS"
+    },
+    {
+        "id": 111,
+        "politican_id": 31,
+        "name_surname": "Erika SAKALAUSKAITĖ"
+    },
+    {
+        "id": 112,
+        "politican_id": 31,
+        "name_surname": "Gintaras VAIČEKAUSKAS"
+    },
+    {
+        "id": 113,
+        "politican_id": 32,
+        "name_surname": "Agnė JENČAUSKIENĖ"
+    },
+    {
+        "id": 114,
+        "politican_id": 32,
+        "name_surname": "Reda KNEIZEVIČIENĖ"
+    },
+    {
+        "id": 115,
+        "politican_id": 32,
+        "name_surname": "Agnė PAULAUSKIENĖ"
+    },
+    {
+        "id": 116,
+        "politican_id": 32,
+        "name_surname": "Aistis VAITIEKAITIS"
+    },
+    {
+        "id": 117,
+        "politican_id": 33,
+        "name_surname": "Vaida BALNIUVIENĖ"
+    },
+    {
+        "id": 118,
+        "politican_id": 33,
+        "name_surname": "Danutė BARTNINKIENĖ (apygardoje)"
+    },
+    {
+        "id": 119,
+        "politican_id": 33,
+        "name_surname": "Antanas BURINSKAS"
+    },
+    {
+        "id": 120,
+        "politican_id": 33,
+        "name_surname": "Airinga KAJOKIENĖ"
+    },
+    {
+        "id": 121,
+        "politican_id": 33,
+        "name_surname": "Jolanta KAVEIKA"
+    },
+    {
+        "id": 122,
+        "politican_id": 33,
+        "name_surname": "Ingrida KIDOLIENĖ"
+    },
+    {
+        "id": 123,
+        "politican_id": 33,
+        "name_surname": "Kristina PETRAŠKIENĖ"
+    },
+    {
+        "id": 124,
+        "politican_id": 33,
+        "name_surname": "Alicija ŠČERBAITĖ"
+    },
+    {
+        "id": 125,
+        "politican_id": 34,
+        "name_surname": "Gintarė GŪŽIENĖ"
+    },
+    {
+        "id": 126,
+        "politican_id": 34,
+        "name_surname": "Arminas MOCKEVIČIUS"
+    },
+    {
+        "id": 127,
+        "politican_id": 34,
+        "name_surname": "Julija VERESOVA"
+    },
+    {
+        "id": 128,
+        "politican_id": 35,
+        "name_surname": "Regina KERNAGIENĖ"
+    },
+    {
+        "id": 129,
+        "politican_id": 35,
+        "name_surname": "Naglis PUTEIKIS"
+    },
+    {
+        "id": 130,
+        "politican_id": 35,
+        "name_surname": "Gediminas VASILIAUSKAS"
+    },
+    {
+        "id": 131,
+        "politican_id": 36,
+        "name_surname": "Kęstutis BUTVYDAS"
+    },
+    {
+        "id": 132,
+        "politican_id": 36,
+        "name_surname": "Marius DAMBRAUSKAS (apygardoje)"
+    },
+    {
+        "id": 133,
+        "politican_id": 36,
+        "name_surname": "Ernesta DAUKŠIENĖ"
+    },
+    {
+        "id": 134,
+        "politican_id": 36,
+        "name_surname": "Audronė NEIMANTAITĖ (apygardoje)"
+    },
+    {
+        "id": 135,
+        "politican_id": 36,
+        "name_surname": "Fausta ROZNYTĖ"
+    },
+    {
+        "id": 136,
+        "politican_id": 37,
+        "name_surname": "Rimantas DAPKUS"
+    },
+    {
+        "id": 137,
+        "politican_id": 37,
+        "name_surname": "Asta KONDROTIENĖ (apygardoje)"
+    },
+    {
+        "id": 138,
+        "politican_id": 37,
+        "name_surname": "Rima NORVILIENĖ"
+    },
+    {
+        "id": 139,
+        "politican_id": 37,
+        "name_surname": "Virgilija VAZBIENĖ"
+    },
+    {
+        "id": 140,
+        "politican_id": 37,
+        "name_surname": "Asta ZAVADSKIENĖ (apygardoje)"
+    },
+    {
+        "id": 141,
+        "politican_id": 38,
+        "name_surname": "Arimantas DUMČIUS (apygardoje)"
+    },
+    {
+        "id": 142,
+        "politican_id": 38,
+        "name_surname": "Audronė KAMINSKIENĖ"
+    },
+    {
+        "id": 143,
+        "politican_id": 38,
+        "name_surname": "Erika PUIŠYTĖ"
+    },
+    {
+        "id": 144,
+        "politican_id": 38,
+        "name_surname": "Rimantas SIMOKAITIS (apygardoje)"
+    },
+    {
+        "id": 145,
+        "politican_id": 38,
+        "name_surname": "Marius ŽITKUS (apygardoje)"
+    },
+    {
+        "id": 146,
+        "politican_id": 39,
+        "name_surname": "Jurgita BARYSIENĖ"
+    },
+    {
+        "id": 147,
+        "politican_id": 39,
+        "name_surname": "Karolis KYGA"
+    },
+    {
+        "id": 148,
+        "politican_id": 39,
+        "name_surname": "Ieva PADOLSKYTĖ"
+    },
+    {
+        "id": 149,
+        "politican_id": 41,
+        "name_surname": "Inga BRŪŽIENĖ (apygardoje)"
+    },
+    {
+        "id": 150,
+        "politican_id": 41,
+        "name_surname": "Janina DIRBANAUSKIENĖ"
+    },
+    {
+        "id": 151,
+        "politican_id": 41,
+        "name_surname": "Vida FREIMONIENĖ"
+    },
+    {
+        "id": 152,
+        "politican_id": 41,
+        "name_surname": "Lina Sigita JATULIENĖ (apygardoje)"
+    },
+    {
+        "id": 153,
+        "politican_id": 41,
+        "name_surname": "Aistė ŠLIOŽAITĖ-SNARSKIENĖ"
+    },
+    {
+        "id": 154,
+        "politican_id": 42,
+        "name_surname": "Remigijus BARANAUSKAS"
+    },
+    {
+        "id": 155,
+        "politican_id": 42,
+        "name_surname": "Sonata DIRSYTĖ"
+    },
+    {
+        "id": 156,
+        "politican_id": 42,
+        "name_surname": "Toma PETRULEVIČIŪTĖ"
+    },
+    {
+        "id": 157,
+        "politican_id": 43,
+        "name_surname": "Vida AČIENĖ"
+    },
+    {
+        "id": 158,
+        "politican_id": 43,
+        "name_surname": "Arūnas GUMULIAUSKAS"
+    },
+    {
+        "id": 159,
+        "politican_id": 43,
+        "name_surname": "Nomeda JASELIŪNIENĖ"
+    },
+    {
+        "id": 160,
+        "politican_id": 43,
+        "name_surname": "Aušra PAPIRTIENĖ"
+    },
+    {
+        "id": 161,
+        "politican_id": 44,
+        "name_surname": "Aurelija AURUŠKEVIČIENĖ"
+    },
+    {
+        "id": 162,
+        "politican_id": 44,
+        "name_surname": "Jūratė GIRNIENĖ"
+    },
+    {
+        "id": 163,
+        "politican_id": 44,
+        "name_surname": "Angelė PRANAITYTĖ"
+    },
+    {
+        "id": 164,
+        "politican_id": 44,
+        "name_surname": "Virginija STUNDŽIENĖ"
+    },
+    {
+        "id": 165,
+        "politican_id": 44,
+        "name_surname": "Eglė ZENKUVIENĖ"
+    },
+    {
+        "id": 166,
+        "politican_id": 45,
+        "name_surname": "Asta GRINIUTĖ"
+    },
+    {
+        "id": 167,
+        "politican_id": 45,
+        "name_surname": "Remigija KADIKINĖ"
+    },
+    {
+        "id": 168,
+        "politican_id": 45,
+        "name_surname": "Jolanta KAVEIKA"
+    },
+    {
+        "id": 169,
+        "politican_id": 45,
+        "name_surname": "Mindaugas KUKLIERIUS"
+    },
+    {
+        "id": 170,
+        "politican_id": 45,
+        "name_surname": "Gražina LIUDVINAVIČĖ (apygardoje)"
+    },
+    {
+        "id": 171,
+        "politican_id": 45,
+        "name_surname": "Ingrida VENCIUVIENĖ"
+    },
+    {
+        "id": 172,
+        "politican_id": 46,
+        "name_surname": "Audris GRYBAUSKAS"
+    },
+    {
+        "id": 173,
+        "politican_id": 46,
+        "name_surname": "Kęstutis KAMINSKAS"
+    },
+    {
+        "id": 174,
+        "politican_id": 46,
+        "name_surname": "Liukrecija NAVICKIENĖ (apygardoje)"
+    },
+    {
+        "id": 175,
+        "politican_id": 47,
+        "name_surname": "Dovilė DAČKAUSKAITĖ"
+    },
+    {
+        "id": 176,
+        "politican_id": 47,
+        "name_surname": "Žaneta JANKAUSKIENĖ (apygardoje)"
+    },
+    {
+        "id": 177,
+        "politican_id": 47,
+        "name_surname": "Giedrius MARKŪNAS"
+    },
+    {
+        "id": 178,
+        "politican_id": 47,
+        "name_surname": "Vilma MARKŪNIENĖ"
+    },
+    {
+        "id": 179,
+        "politican_id": 47,
+        "name_surname": "Kazimieras ŠIMKUS"
+    },
+    {
+        "id": 180,
+        "politican_id": 48,
+        "name_surname": "Irena BINEVIČIENĖ"
+    },
+    {
+        "id": 181,
+        "politican_id": 48,
+        "name_surname": "Daiva BUBELIENĖ"
+    },
+    {
+        "id": 182,
+        "politican_id": 48,
+        "name_surname": "Rasa IVANAUSKIENĖ"
+    },
+    {
+        "id": 183,
+        "politican_id": 48,
+        "name_surname": "Kastytis MASALSKAS"
+    },
+    {
+        "id": 184,
+        "politican_id": 48,
+        "name_surname": "Giedrė RAIŠIENĖ"
+    },
+    {
+        "id": 185,
+        "politican_id": 49,
+        "name_surname": "Aldona MINKEVIČIENĖ (apygardoje)"
+    },
+    {
+        "id": 186,
+        "politican_id": 49,
+        "name_surname": "Liudvika RASLANIENĖ"
+    },
+    {
+        "id": 187,
+        "politican_id": 49,
+        "name_surname": "Antanas TAPARAUSKAS (apygardoje)"
+    },
+    {
+        "id": 188,
+        "politican_id": 50,
+        "name_surname": "Vilma ADOMAVIČIENĖ"
+    },
+    {
+        "id": 189,
+        "politican_id": 50,
+        "name_surname": "Emilė BALODYTĖ"
+    },
+    {
+        "id": 190,
+        "politican_id": 50,
+        "name_surname": "Jolanta BIZAITĖ"
+    },
+    {
+        "id": 191,
+        "politican_id": 50,
+        "name_surname": "Audronė KAUPIENĖ"
+    },
+    {
+        "id": 192,
+        "politican_id": 50,
+        "name_surname": "Simonas KLIMANSKIS"
+    },
+    {
+        "id": 193,
+        "politican_id": 50,
+        "name_surname": "Gintarė MINSEVIČIŪTĖ-BALYNIENĖ"
+    },
+    {
+        "id": 194,
+        "politican_id": 50,
+        "name_surname": "Jonas NOVOGRECKIS"
+    },
+    {
+        "id": 195,
+        "politican_id": 50,
+        "name_surname": "Vilma TAROVATOVIENĖ"
+    },
+    {
+        "id": 196,
+        "politican_id": 51,
+        "name_surname": "Nemira ALIUKONIENĖ"
+    },
+    {
+        "id": 197,
+        "politican_id": 51,
+        "name_surname": "Juozas IVANAUSKAS"
+    },
+    {
+        "id": 198,
+        "politican_id": 51,
+        "name_surname": "Neringa LAVRENOVĖ"
+    },
+    {
+        "id": 199,
+        "politican_id": 51,
+        "name_surname": "Konstantinas LOTIUK (apygardoje)"
+    },
+    {
+        "id": 200,
+        "politican_id": 52,
+        "name_surname": "Rimvydas LAUKIONIS"
+    },
+    {
+        "id": 201,
+        "politican_id": 52,
+        "name_surname": "Giedrius PIVORIŪNAS"
+    },
+    {
+        "id": 202,
+        "politican_id": 52,
+        "name_surname": "Vikintė VALANTINAITĖ"
+    },
+    {
+        "id": 203,
+        "politican_id": 53,
+        "name_surname": "Gražina ANANIKOVIENĖ"
+    },
+    {
+        "id": 204,
+        "politican_id": 53,
+        "name_surname": "Enrikas DOVIAKOVSKIS (apygardoje)"
+    },
+    {
+        "id": 205,
+        "politican_id": 53,
+        "name_surname": "Vida RASTENIENĖ (apygardoje)"
+    },
+    {
+        "id": 206,
+        "politican_id": 54,
+        "name_surname": "Mantas JURGELAITIS"
+    },
+    {
+        "id": 207,
+        "politican_id": 54,
+        "name_surname": "Kęstutis ŠKIUDAS"
+    },
+    {
+        "id": 208,
+        "politican_id": 54,
+        "name_surname": "Teodoras Jonas ŽUKAS"
+    },
+    {
+        "id": 209,
+        "politican_id": 55,
+        "name_surname": "Audronė IVANAUSKIENĖ"
+    },
+    {
+        "id": 210,
+        "politican_id": 55,
+        "name_surname": "Lukas PETRAITIS (apygardoje)"
+    },
+    {
+        "id": 211,
+        "politican_id": 55,
+        "name_surname": "Vaida PRANARAUSKAITĖ (apygardoje)"
+    },
+    {
+        "id": 212,
+        "politican_id": 55,
+        "name_surname": "Vytis TURONIS"
+    },
+    {
+        "id": 213,
+        "politican_id": 56,
+        "name_surname": "Antanas BAURA"
+    },
+    {
+        "id": 214,
+        "politican_id": 56,
+        "name_surname": "Juozas BERNATAVIČIUS"
+    },
+    {
+        "id": 215,
+        "politican_id": 56,
+        "name_surname": "Gintaras JANČIAUSKAS"
+    },
+    {
+        "id": 216,
+        "politican_id": 56,
+        "name_surname": "Vaida PAULAUSKAITĖ"
+    },
+    {
+        "id": 217,
+        "politican_id": 56,
+        "name_surname": "Dalia SAKALAUSKAITĖ-BABRAVIČĖ"
+    },
+    {
+        "id": 218,
+        "politican_id": 56,
+        "name_surname": "Evelina ŠEŠTOKAITĖ"
+    },
+    {
+        "id": 219,
+        "politican_id": 56,
+        "name_surname": "Juzef TOMAŠEVIČ-JAKOVIČ"
+    },
+    {
+        "id": 220,
+        "politican_id": 57,
+        "name_surname": "Asta BIKULIČIENĖ"
+    },
+    {
+        "id": 221,
+        "politican_id": 57,
+        "name_surname": "Jovydas JUOCEVIČIUS"
+    },
+    {
+        "id": 222,
+        "politican_id": 57,
+        "name_surname": "Audronė KAMINSKIENĖ"
+    },
+    {
+        "id": 223,
+        "politican_id": 57,
+        "name_surname": "Justinas RIZGELIS"
+    },
+    {
+        "id": 224,
+        "politican_id": 57,
+        "name_surname": "Vytautas ŠEŠKEVIČIUS"
+    },
+    {
+        "id": 225,
+        "politican_id": 58,
+        "name_surname": "Aurelija AURUŠKEVIČIENĖ"
+    },
+    {
+        "id": 226,
+        "politican_id": 58,
+        "name_surname": "Vismantė BENKUNSKIENĖ"
+    },
+    {
+        "id": 227,
+        "politican_id": 58,
+        "name_surname": "Vytautas BUDREIKA"
+    },
+    {
+        "id": 228,
+        "politican_id": 58,
+        "name_surname": "Aldona BUŽAVIENĖ"
+    },
+    {
+        "id": 229,
+        "politican_id": 58,
+        "name_surname": "Irena Elena JONIKIENĖ (apygardoje)"
+    },
+    {
+        "id": 230,
+        "politican_id": 58,
+        "name_surname": "Laurynas KAMINSKAS"
+    },
+    {
+        "id": 231,
+        "politican_id": 58,
+        "name_surname": "Tomas KAŠĖTA"
+    },
+    {
+        "id": 232,
+        "politican_id": 59,
+        "name_surname": "Eglė BLAŽEVIČIENĖ"
+    },
+    {
+        "id": 233,
+        "politican_id": 59,
+        "name_surname": "Sandra RAZMINĖ (apygardoje)"
+    },
+    {
+        "id": 234,
+        "politican_id": 59,
+        "name_surname": "Eglė STASIŠKIENĖ"
+    },
+    {
+        "id": 235,
+        "politican_id": 60,
+        "name_surname": "Dovydas SKAROLSKIS"
+    },
+    {
+        "id": 236,
+        "politican_id": 61,
+        "name_surname": "Lina BAUBLIENĖ"
+    },
+    {
+        "id": 237,
+        "politican_id": 61,
+        "name_surname": "Živilė JAKAITĖ"
+    },
+    {
+        "id": 238,
+        "politican_id": 61,
+        "name_surname": "Indrė KIŽIENĖ"
+    },
+    {
+        "id": 239,
+        "politican_id": 61,
+        "name_surname": "Karolis KLIMKA"
+    },
+    {
+        "id": 240,
+        "politican_id": 61,
+        "name_surname": "Aurelija LANKELIENĖ"
+    },
+    {
+        "id": 241,
+        "politican_id": 61,
+        "name_surname": "Birutė VĖSAITĖ"
+    },
+    {
+        "id": 242,
+        "politican_id": 62,
+        "name_surname": "Lina ALIŠAUSKIENĖ"
+    },
+    {
+        "id": 243,
+        "politican_id": 62,
+        "name_surname": "Edvardas BALEIŠIS (apygardoje)"
+    },
+    {
+        "id": 244,
+        "politican_id": 62,
+        "name_surname": "Snieguolė JARUŠEVIČIENĖ"
+    },
+    {
+        "id": 245,
+        "politican_id": 62,
+        "name_surname": "Aurelija KUZMIČIENĖ"
+    },
+    {
+        "id": 246,
+        "politican_id": 62,
+        "name_surname": "Margarita SKVARČIENĖ"
+    },
+    {
+        "id": 247,
+        "politican_id": 62,
+        "name_surname": "Barbora VIDAUSKIENĖ"
+    },
+    {
+        "id": 248,
+        "politican_id": 63,
+        "name_surname": "Jolita BAUŠYTĖ"
+    },
+    {
+        "id": 249,
+        "politican_id": 63,
+        "name_surname": "Donatas MARKAUSKAS"
+    },
+    {
+        "id": 250,
+        "politican_id": 63,
+        "name_surname": "Orinta OMELYTĖ"
+    },
+    {
+        "id": 251,
+        "politican_id": 64,
+        "name_surname": "Alida JUCEVIČĖ"
+    },
+    {
+        "id": 252,
+        "politican_id": 64,
+        "name_surname": "Julijonas ŠILEIKA"
+    },
+    {
+        "id": 253,
+        "politican_id": 65,
+        "name_surname": "Silvija AJAUSKAITĖ"
+    },
+    {
+        "id": 254,
+        "politican_id": 65,
+        "name_surname": "Rūta KALĖTINAITĖ"
+    },
+    {
+        "id": 255,
+        "politican_id": 65,
+        "name_surname": "Auksė PETRUŠKEVIČIŪTĖ"
+    },
+    {
+        "id": 256,
+        "politican_id": 65,
+        "name_surname": "Kęstutis STANKEVIČIUS"
+    },
+    {
+        "id": 257,
+        "politican_id": 66,
+        "name_surname": "Gintarė MARTIKONYTĖ"
+    },
+    {
+        "id": 258,
+        "politican_id": 67,
+        "name_surname": "Neringa KLIMAVIČIENĖ"
+    },
+    {
+        "id": 259,
+        "politican_id": 67,
+        "name_surname": "Rūta MACKEVIČIENĖ"
+    },
+    {
+        "id": 260,
+        "politican_id": 67,
+        "name_surname": "Dominyka TRIBIENĖ"
+    },
+    {
+        "id": 261,
+        "politican_id": 68,
+        "name_surname": "Gytis JANIŠIUS"
+    },
+    {
+        "id": 262,
+        "politican_id": 68,
+        "name_surname": "Saulius MOCKUS"
+    },
+    {
+        "id": 263,
+        "politican_id": 68,
+        "name_surname": "Jonas PETUKAUSKAS"
+    },
+    {
+        "id": 264,
+        "politican_id": 69,
+        "name_surname": "Elmoras ADAKAUSKAS (apygardoje)"
+    },
+    {
+        "id": 265,
+        "politican_id": 69,
+        "name_surname": "Birutė BINKIENĖ"
+    },
+    {
+        "id": 266,
+        "politican_id": 69,
+        "name_surname": "Dalia MORKŪNIENĖ"
+    },
+    {
+        "id": 267,
+        "politican_id": 69,
+        "name_surname": "Inga SMALSKIENĖ"
+    },
+    {
+        "id": 268,
+        "politican_id": 70,
+        "name_surname": "Rokas GARLIAUSKAS (apygardoje)"
+    },
+    {
+        "id": 269,
+        "politican_id": 70,
+        "name_surname": "Marius GURSKAS"
+    },
+    {
+        "id": 270,
+        "politican_id": 70,
+        "name_surname": "Ligita ŠAPRANAVIČIŪTĖ"
+    },
+    {
+        "id": 271,
+        "politican_id": 71,
+        "name_surname": "Erika KIŽIENĖ"
+    },
+    {
+        "id": 272,
+        "politican_id": 71,
+        "name_surname": "Neringa LAURINAVIČIUTĖ"
+    },
+    {
+        "id": 273,
+        "politican_id": 71,
+        "name_surname": "Zina MAGELINSKIENĖ (apygardoje)"
+    },
+    {
+        "id": 274,
+        "politican_id": 73,
+        "name_surname": "Rimas MARČIULYNAS"
+    },
+    {
+        "id": 275,
+        "politican_id": 73,
+        "name_surname": "Kęstas SPŪDYS (apygardoje)"
+    },
+    {
+        "id": 276,
+        "politican_id": 73,
+        "name_surname": "Laura STRAŽNICKIENĖ (apygardoje)"
+    },
+    {
+        "id": 277,
+        "politican_id": 73,
+        "name_surname": "Marius VALENTA"
+    },
+    {
+        "id": 278,
+        "politican_id": 73,
+        "name_surname": "Olga VĖBRIENĖ"
+    },
+    {
+        "id": 279,
+        "politican_id": 74,
+        "name_surname": "Martyna MICKĖ"
+    },
+    {
+        "id": 280,
+        "politican_id": 74,
+        "name_surname": "Jonas MOCKŪNAS"
+    },
+    {
+        "id": 281,
+        "politican_id": 74,
+        "name_surname": "Ramunė MUZIKEVIČIŪTĖ-NARMONTIENĖ"
+    },
+    {
+        "id": 282,
+        "politican_id": 76,
+        "name_surname": "Edita CITAVIČIENĖ"
+    },
+    {
+        "id": 283,
+        "politican_id": 76,
+        "name_surname": "Reda RADYKĖ"
+    },
+    {
+        "id": 284,
+        "politican_id": 76,
+        "name_surname": "Raminta ŠIMKUVIENĖ"
+    },
+    {
+        "id": 285,
+        "politican_id": 78,
+        "name_surname": "Aušra GRICIUTĖ"
+    },
+    {
+        "id": 286,
+        "politican_id": 78,
+        "name_surname": "Miranda GRIGONIENĖ"
+    },
+    {
+        "id": 287,
+        "politican_id": 78,
+        "name_surname": "Nijolė GRIGONYTĖ"
+    },
+    {
+        "id": 288,
+        "politican_id": 78,
+        "name_surname": "Simona ŽIŽIENĖ"
+    },
+    {
+        "id": 289,
+        "politican_id": 79,
+        "name_surname": "Neda KURLIANSKĖ"
+    },
+    {
+        "id": 290,
+        "politican_id": 79,
+        "name_surname": "Jovita MORKŪNAITĖ"
+    },
+    {
+        "id": 291,
+        "politican_id": 79,
+        "name_surname": "Laurynas PREIKŠA"
+    },
+    {
+        "id": 292,
+        "politican_id": 79,
+        "name_surname": "Konstantinas REČKOVAS"
+    },
+    {
+        "id": 293,
+        "politican_id": 79,
+        "name_surname": "Lina ŠLAMIENĖ"
+    },
+    {
+        "id": 294,
+        "politican_id": 80,
+        "name_surname": "Kristina BUTVILAVIČIENĖ"
+    },
+    {
+        "id": 295,
+        "politican_id": 80,
+        "name_surname": "Vytautas GIMŽAUSKAS"
+    },
+    {
+        "id": 296,
+        "politican_id": 80,
+        "name_surname": "Giedrė RAKAUSKIENĖ"
+    },
+    {
+        "id": 297,
+        "politican_id": 81,
+        "name_surname": "Živilė KEBLAITĖ-AČIENĖ"
+    },
+    {
+        "id": 298,
+        "politican_id": 81,
+        "name_surname": "Sandra KEMEŠIENĖ"
+    },
+    {
+        "id": 299,
+        "politican_id": 81,
+        "name_surname": "Algimantas MIELINIS"
+    },
+    {
+        "id": 300,
+        "politican_id": 81,
+        "name_surname": "Dovilas PETKUS"
+    },
+    {
+        "id": 301,
+        "politican_id": 81,
+        "name_surname": "Petras VALIŪNAS"
+    },
+    {
+        "id": 302,
+        "politican_id": 81,
+        "name_surname": "Skaidrutė ŽUVELAITIENĖ"
+    },
+    {
+        "id": 303,
+        "politican_id": 82,
+        "name_surname": "Vida AČIENĖ"
+    },
+    {
+        "id": 304,
+        "politican_id": 82,
+        "name_surname": "Aldona Violeta GRINIENĖ"
+    },
+    {
+        "id": 305,
+        "politican_id": 82,
+        "name_surname": "Vitalija JANKAUSKAITĖ-MILČIUVIENĖ (apygardoje)"
+    },
+    {
+        "id": 306,
+        "politican_id": 82,
+        "name_surname": "Aušrinė PUSKUNIGYTĖ"
+    },
+    {
+        "id": 307,
+        "politican_id": 83,
+        "name_surname": "Viktor JUSEL"
+    },
+    {
+        "id": 308,
+        "politican_id": 83,
+        "name_surname": "Jaroslav NARKEVIČ"
+    },
+    {
+        "id": 309,
+        "politican_id": 83,
+        "name_surname": "Romualda POŠEVECKAJA"
+    },
+    {
+        "id": 310,
+        "politican_id": 83,
+        "name_surname": "Edita ŠIŠKO (apygardoje)"
+    },
+    {
+        "id": 311,
+        "politican_id": 83,
+        "name_surname": "Valdemar URBAN"
+    },
+    {
+        "id": 312,
+        "politican_id": 84,
+        "name_surname": "Robertas ČEPULIS"
+    },
+    {
+        "id": 313,
+        "politican_id": 84,
+        "name_surname": "Kamilė GUŽAUSKAITĖ"
+    },
+    {
+        "id": 314,
+        "politican_id": 84,
+        "name_surname": "Gabija NORGILAITĖ"
+    },
+    {
+        "id": 315,
+        "politican_id": 85,
+        "name_surname": "Raivydas RAKAUSKAS"
+    },
+    {
+        "id": 316,
+        "politican_id": 85,
+        "name_surname": "Lauryna DALMOTAITĖ"
+    },
+    {
+        "id": 317,
+        "politican_id": 85,
+        "name_surname": "Liucija DARAŠKAITĖ"
+    },
+    {
+        "id": 318,
+        "politican_id": 85,
+        "name_surname": "Tauras DIUBA"
+    },
+    {
+        "id": 319,
+        "politican_id": 86,
+        "name_surname": "Marija BALEZINA"
+    },
+    {
+        "id": 320,
+        "politican_id": 86,
+        "name_surname": "Tomas JUOČIŪNAS"
+    },
+    {
+        "id": 321,
+        "politican_id": 86,
+        "name_surname": "Zofija JUŠKIENĖ"
+    },
+    {
+        "id": 322,
+        "politican_id": 86,
+        "name_surname": "Valė PETKEVIČIENĖ"
+    },
+    {
+        "id": 323,
+        "politican_id": 86,
+        "name_surname": "Vilma VAIDOGIENĖ"
+    },
+    {
+        "id": 324,
+        "politican_id": 87,
+        "name_surname": "Svetlana GRIGORIAN"
+    },
+    {
+        "id": 325,
+        "politican_id": 87,
+        "name_surname": "Karolis JONUTIS"
+    },
+    {
+        "id": 326,
+        "politican_id": 87,
+        "name_surname": "Laurynas ŠEDVYDIS"
+    },
+    {
+        "id": 327,
+        "politican_id": 87,
+        "name_surname": "Tadas VINOKUR"
+    },
+    {
+        "id": 328,
+        "politican_id": 88,
+        "name_surname": "Laurynas ČIŽAS"
+    },
+    {
+        "id": 329,
+        "politican_id": 88,
+        "name_surname": "Simonas NORKŪNAS"
+    },
+    {
+        "id": 330,
+        "politican_id": 89,
+        "name_surname": "Indrė DUJAUSKIENĖ"
+    },
+    {
+        "id": 331,
+        "politican_id": 89,
+        "name_surname": "Žygimantas KURLIANSKAS"
+    },
+    {
+        "id": 332,
+        "politican_id": 89,
+        "name_surname": "Zigmantas MERLIŪNAS"
+    },
+    {
+        "id": 333,
+        "politican_id": 89,
+        "name_surname": "Andrius ROMANOVAS"
+    },
+    {
+        "id": 334,
+        "politican_id": 89,
+        "name_surname": "Giedrė VAICEKAUSKAITĖ"
+    },
+    {
+        "id": 335,
+        "politican_id": 89,
+        "name_surname": "Vėjūnė ŽEBELĖ"
+    },
+    {
+        "id": 336,
+        "politican_id": 90,
+        "name_surname": "Kristina DZERŽINSKA"
+    },
+    {
+        "id": 337,
+        "politican_id": 90,
+        "name_surname": "Jekaterina GRINEVIČ"
+    },
+    {
+        "id": 338,
+        "politican_id": 90,
+        "name_surname": "Pavel KOBAK"
+    },
+    {
+        "id": 339,
+        "politican_id": 91,
+        "name_surname": "Audrė KAMINSKAITĖ"
+    },
+    {
+        "id": 340,
+        "politican_id": 91,
+        "name_surname": "Eglė PALIONIENĖ"
+    },
+    {
+        "id": 341,
+        "politican_id": 91,
+        "name_surname": "Arvydas VITKEVIČIUS"
+    },
+    {
+        "id": 342,
+        "politican_id": 92,
+        "name_surname": "Aurelija AURUŠKEVIČIENĖ"
+    },
+    {
+        "id": 343,
+        "politican_id": 92,
+        "name_surname": "Vismantė BENKUNSKIENĖ"
+    },
+    {
+        "id": 344,
+        "politican_id": 92,
+        "name_surname": "Liuda TUOMAITĖ"
+    },
+    {
+        "id": 345,
+        "politican_id": 92,
+        "name_surname": "Kęstutis ZINKEVIČIUS"
+    },
+    {
+        "id": 346,
+        "politican_id": 92,
+        "name_surname": "Elžbieta Ugnis ŽAIDYTĖ"
+    },
+    {
+        "id": 347,
+        "politican_id": 93,
+        "name_surname": "Nijolė BYTAUTIENĖ"
+    },
+    {
+        "id": 348,
+        "politican_id": 93,
+        "name_surname": "Simona BUDREVIČIŪTĖ"
+    },
+    {
+        "id": 349,
+        "politican_id": 93,
+        "name_surname": "Leonarda KUODIENĖ"
+    },
+    {
+        "id": 350,
+        "politican_id": 93,
+        "name_surname": "Leonas STONKUS"
+    },
+    {
+        "id": 351,
+        "politican_id": 94,
+        "name_surname": "Jūratė TRUNCIENĖ"
+    },
+    {
+        "id": 352,
+        "politican_id": 94,
+        "name_surname": "Asta ULINSKAITĖ (apygardoje)"
+    },
+    {
+        "id": 353,
+        "politican_id": 95,
+        "name_surname": "Loreta FOKIENĖ"
+    },
+    {
+        "id": 354,
+        "politican_id": 95,
+        "name_surname": "Robertas STANIONIS"
+    },
+    {
+        "id": 355,
+        "politican_id": 96,
+        "name_surname": "Audronė BENDOKIENĖ"
+    },
+    {
+        "id": 356,
+        "politican_id": 96,
+        "name_surname": "Kristina GOGELIENĖ"
+    },
+    {
+        "id": 357,
+        "politican_id": 96,
+        "name_surname": "Rolanda GUDYNIENĖ"
+    },
+    {
+        "id": 358,
+        "politican_id": 96,
+        "name_surname": "Mindaugas RAMELIS"
+    },
+    {
+        "id": 359,
+        "politican_id": 96,
+        "name_surname": "Vaida SELIUTIENĖ"
+    },
+    {
+        "id": 360,
+        "politican_id": 97,
+        "name_surname": "Virginijus BAČIANSKAS"
+    },
+    {
+        "id": 361,
+        "politican_id": 97,
+        "name_surname": "Aušra MAŽONĖ"
+    },
+    {
+        "id": 362,
+        "politican_id": 97,
+        "name_surname": "Jolanta SKRITULSKAITĖ"
+    },
+    {
+        "id": 363,
+        "politican_id": 97,
+        "name_surname": "Vladas SUNGAILA"
+    },
+    {
+        "id": 364,
+        "politican_id": 98,
+        "name_surname": "Laura BLIUJIENĖ"
+    },
+    {
+        "id": 365,
+        "politican_id": 98,
+        "name_surname": "Dominyka DALMOTAITĖ"
+    },
+    {
+        "id": 366,
+        "politican_id": 98,
+        "name_surname": "Eligijus GERULIS"
+    },
+    {
+        "id": 367,
+        "politican_id": 98,
+        "name_surname": "Gintarė KOZAKAITĖ"
+    },
+    {
+        "id": 368,
+        "politican_id": 98,
+        "name_surname": "Žaneta ŠEVČENKO"
+    },
+    {
+        "id": 369,
+        "politican_id": 100,
+        "name_surname": "Dovydas BLIUJUS (apygardoje)"
+    },
+    {
+        "id": 370,
+        "politican_id": 100,
+        "name_surname": "Gabija GALBOGYTĖ"
+    },
+    {
+        "id": 371,
+        "politican_id": 100,
+        "name_surname": "Aušrinė LUKOŠIŪTĖ-ALEKSANDRAVIČIENĖ"
+    },
+    {
+        "id": 372,
+        "politican_id": 100,
+        "name_surname": "Indrė MARTUSEVIČIENĖ"
+    },
+    {
+        "id": 373,
+        "politican_id": 100,
+        "name_surname": "Inesa ŽIDONYTĖ (apygardoje)"
+    },
+    {
+        "id": 374,
+        "politican_id": 102,
+        "name_surname": "Aušra ANDREJEVA (apygardoje)"
+    },
+    {
+        "id": 375,
+        "politican_id": 102,
+        "name_surname": "Audronė BAGDONAVIČIENĖ (apygardoje)"
+    },
+    {
+        "id": 376,
+        "politican_id": 102,
+        "name_surname": "Roderikas ŽIOBAKAS"
+    },
+    {
+        "id": 377,
+        "politican_id": 104,
+        "name_surname": "Kotryna BUTKIENĖ"
+    },
+    {
+        "id": 378,
+        "politican_id": 104,
+        "name_surname": "Martyna MICKĖ"
+    },
+    {
+        "id": 379,
+        "politican_id": 104,
+        "name_surname": "Jonas MOCKŪNAS"
+    },
+    {
+        "id": 380,
+        "politican_id": 104,
+        "name_surname": "Ramunė MUZIKEVIČIŪTĖ-NARMONTIENĖ"
+    },
+    {
+        "id": 381,
+        "politican_id": 105,
+        "name_surname": "Aurėja JUTELYTĖ"
+    },
+    {
+        "id": 382,
+        "politican_id": 105,
+        "name_surname": "Lina ŠLAMIENĖ (apygardoje)"
+    },
+    {
+        "id": 383,
+        "politican_id": 105,
+        "name_surname": "Simona VIRBICKIENĖ"
+    },
+    {
+        "id": 384,
+        "politican_id": 106,
+        "name_surname": "Justinas ARGUSTAS"
+    },
+    {
+        "id": 385,
+        "politican_id": 106,
+        "name_surname": "Giedrius JOZONIS"
+    },
+    {
+        "id": 386,
+        "politican_id": 106,
+        "name_surname": "Anna KUZNECOVIENĖ"
+    },
+    {
+        "id": 387,
+        "politican_id": 106,
+        "name_surname": "Vilmantas TŪBA (apygardoje)"
+    },
+    {
+        "id": 388,
+        "politican_id": 106,
+        "name_surname": "Morta VIDŪNAITĖ"
+    },
+    {
+        "id": 389,
+        "politican_id": 107,
+        "name_surname": "Vilija BARTAŠIENĖ"
+    },
+    {
+        "id": 390,
+        "politican_id": 107,
+        "name_surname": "Ramūnas KARTENIS"
+    },
+    {
+        "id": 391,
+        "politican_id": 107,
+        "name_surname": "Viktorija LAURINAVIČIŪTĖ"
+    },
+    {
+        "id": 392,
+        "politican_id": 107,
+        "name_surname": "Sonata MOCKUVIENĖ"
+    },
+    {
+        "id": 393,
+        "politican_id": 107,
+        "name_surname": "Gediminas ŠINKŪNAS"
+    },
+    {
+        "id": 394,
+        "politican_id": 107,
+        "name_surname": "Ugnė ŽAKEVIČIENĖ"
+    },
+    {
+        "id": 395,
+        "politican_id": 108,
+        "name_surname": "Raimonda ALIJOŠIENĖ"
+    },
+    {
+        "id": 396,
+        "politican_id": 108,
+        "name_surname": "Edvinas KOMPARSKAS"
+    },
+    {
+        "id": 397,
+        "politican_id": 108,
+        "name_surname": "Brigita PETROŠIŪTĖ"
+    },
+    {
+        "id": 398,
+        "politican_id": 109,
+        "name_surname": "Živilė KASNAUSKIENĖ"
+    },
+    {
+        "id": 399,
+        "politican_id": 109,
+        "name_surname": "Albertas MARTINAITIS"
+    },
+    {
+        "id": 400,
+        "politican_id": 109,
+        "name_surname": "Vilmantė VYŠNIAUSKIENĖ"
+    },
+    {
+        "id": 401,
+        "politican_id": 109,
+        "name_surname": "Dainius ŽELVYS"
+    },
+    {
+        "id": 402,
+        "politican_id": 110,
+        "name_surname": "Inga BARIŠAUSKĖ"
+    },
+    {
+        "id": 403,
+        "politican_id": 110,
+        "name_surname": "Ieva GERVINSKAITĖ"
+    },
+    {
+        "id": 404,
+        "politican_id": 110,
+        "name_surname": "Monika GIEDRIENĖ"
+    },
+    {
+        "id": 405,
+        "politican_id": 110,
+        "name_surname": "Arnoldas PIKŽIRNIS"
+    },
+    {
+        "id": 406,
+        "politican_id": 111,
+        "name_surname": "Evelina ADAŠKEVIČIENĖ"
+    },
+    {
+        "id": 407,
+        "politican_id": 111,
+        "name_surname": "Agnė BRAZAITYTĖ"
+    },
+    {
+        "id": 408,
+        "politican_id": 111,
+        "name_surname": "Indrė DUJAUSKIENĖ"
+    },
+    {
+        "id": 409,
+        "politican_id": 111,
+        "name_surname": "Birutė Marija KONTRIMAITĖ"
+    },
+    {
+        "id": 410,
+        "politican_id": 111,
+        "name_surname": "Justyna MALEVSKA"
+    },
+    {
+        "id": 411,
+        "politican_id": 111,
+        "name_surname": "Ineta NEBUTOVA"
+    },
+    {
+        "id": 412,
+        "politican_id": 111,
+        "name_surname": "Arūnas TALUTIS"
+    },
+    {
+        "id": 413,
+        "politican_id": 112,
+        "name_surname": "Rasa BARKAUSKIENĖ (apygardoje)"
+    },
+    {
+        "id": 414,
+        "politican_id": 112,
+        "name_surname": "Eva DALINKEVIČIENĖ (apygardoje)"
+    },
+    {
+        "id": 415,
+        "politican_id": 112,
+        "name_surname": "Rimantas KAUŠIKAS"
+    },
+    {
+        "id": 416,
+        "politican_id": 112,
+        "name_surname": "Giedrius KILINSKAS"
+    },
+    {
+        "id": 417,
+        "politican_id": 112,
+        "name_surname": "Danutė PUKĖNIENĖ (apygardoje)"
+    },
+    {
+        "id": 418,
+        "politican_id": 112,
+        "name_surname": "Vilius REKEVIČIUS"
+    },
+    {
+        "id": 419,
+        "politican_id": 112,
+        "name_surname": "Vladas SUNGAILA"
+    },
+    {
+        "id": 420,
+        "politican_id": 113,
+        "name_surname": "Rasa KIŪDYTĖ"
+    },
+    {
+        "id": 421,
+        "politican_id": 113,
+        "name_surname": "Rasa SMIRNOVA"
+    },
+    {
+        "id": 422,
+        "politican_id": 114,
+        "name_surname": "Ieva NOVOGRECKAITĖ"
+    },
+    {
+        "id": 423,
+        "politican_id": 114,
+        "name_surname": "Marytė ROZALIENĖ (apygardoje)"
+    },
+    {
+        "id": 424,
+        "politican_id": 114,
+        "name_surname": "Benius RŪTELIONIS (apygardoje)"
+    },
+    {
+        "id": 425,
+        "politican_id": 115,
+        "name_surname": "Laura BINDORIENĖ (apygardoje)"
+    },
+    {
+        "id": 426,
+        "politican_id": 115,
+        "name_surname": "Inga CEMNOLONSKAITĖ"
+    },
+    {
+        "id": 427,
+        "politican_id": 116,
+        "name_surname": "Vitalius BESAKIRSKAS"
+    },
+    {
+        "id": 428,
+        "politican_id": 116,
+        "name_surname": "Raimondas JANUŠEVIČIUS (apygardoje)"
+    },
+    {
+        "id": 429,
+        "politican_id": 116,
+        "name_surname": "Vytautas RIMAS (apygardoje)"
+    },
+    {
+        "id": 430,
+        "politican_id": 116,
+        "name_surname": "Greta SENKUTĖ"
+    },
+    {
+        "id": 431,
+        "politican_id": 116,
+        "name_surname": "Ilona ŠEFLERIENĖ (apygardoje)"
+    },
+    {
+        "id": 432,
+        "politican_id": 116,
+        "name_surname": "Petras VALIŪNAS"
+    },
+    {
+        "id": 433,
+        "politican_id": 116,
+        "name_surname": "Juozas VITUKYNAS (apygardoje)"
+    },
+    {
+        "id": 434,
+        "politican_id": 117,
+        "name_surname": "Ruslanas BARANOVAS"
+    },
+    {
+        "id": 435,
+        "politican_id": 117,
+        "name_surname": "Karolis KLIMKA"
+    },
+    {
+        "id": 436,
+        "politican_id": 117,
+        "name_surname": "Lina PABEDINSKIENĖ"
+    },
+    {
+        "id": 437,
+        "politican_id": 118,
+        "name_surname": "Lina DIJOKIENĖ"
+    },
+    {
+        "id": 438,
+        "politican_id": 118,
+        "name_surname": "Audronė JANKUVIENĖ"
+    },
+    {
+        "id": 439,
+        "politican_id": 118,
+        "name_surname": "Janina KUMPIENĖ"
+    },
+    {
+        "id": 440,
+        "politican_id": 118,
+        "name_surname": "Gitana RAMOŠKIENĖ"
+    },
+    {
+        "id": 441,
+        "politican_id": 118,
+        "name_surname": "Aušra VAITKEVIČIŪTĖ"
+    },
+    {
+        "id": 442,
+        "politican_id": 119,
+        "name_surname": "Edgaras AGANAUSKAS"
+    },
+    {
+        "id": 443,
+        "politican_id": 119,
+        "name_surname": "Ernestas GATAUTIS"
+    },
+    {
+        "id": 444,
+        "politican_id": 119,
+        "name_surname": "Dovilė ŠINKARIUKIENĖ"
+    },
+    {
+        "id": 445,
+        "politican_id": 119,
+        "name_surname": "Saulius VALANSEVIČIUS"
+    },
+    {
+        "id": 446,
+        "politican_id": 120,
+        "name_surname": "Jūratė AČĖ (apygardoje)"
+    },
+    {
+        "id": 447,
+        "politican_id": 120,
+        "name_surname": "Raimundė GEČIENĖ (apygardoje)"
+    },
+    {
+        "id": 448,
+        "politican_id": 120,
+        "name_surname": "Loreta JASTRAMSKIENĖ"
+    },
+    {
+        "id": 449,
+        "politican_id": 120,
+        "name_surname": "Asta KONDROTIENĖ (apygardoje)"
+    },
+    {
+        "id": 450,
+        "politican_id": 120,
+        "name_surname": "Adelė LEVIKOVAITĖ"
+    },
+    {
+        "id": 451,
+        "politican_id": 121,
+        "name_surname": "Birutė GALINIENĖ"
+    },
+    {
+        "id": 452,
+        "politican_id": 122,
+        "name_surname": "Janina BALSIENĖ"
+    },
+    {
+        "id": 453,
+        "politican_id": 122,
+        "name_surname": "Eglė STONIENĖ"
+    },
+    {
+        "id": 454,
+        "politican_id": 122,
+        "name_surname": "Kristina ZAMARYTĖ-SAKAVIČIENĖ"
+    },
+    {
+        "id": 455,
+        "politican_id": 123,
+        "name_surname": "Laura BAKANAUSKIENĖ"
+    },
+    {
+        "id": 456,
+        "politican_id": 123,
+        "name_surname": "Justina GAUBĖ (apygardoje)"
+    },
+    {
+        "id": 457,
+        "politican_id": 123,
+        "name_surname": "Gintarė GRYBAUSKAITĖ-KAMINSKIENĖ (apygardoje)"
+    },
+    {
+        "id": 458,
+        "politican_id": 123,
+        "name_surname": "Antanas JANKŪNAS (apygardoje)"
+    },
+    {
+        "id": 459,
+        "politican_id": 123,
+        "name_surname": "Vytautas VAITIEKŪNAS"
+    },
+    {
+        "id": 460,
+        "politican_id": 124,
+        "name_surname": "Tadeusz ANDRZEJEWSKI"
+    },
+    {
+        "id": 461,
+        "politican_id": 124,
+        "name_surname": "Ivona KLIMAŠEVSKAJA"
+    },
+    {
+        "id": 462,
+        "politican_id": 124,
+        "name_surname": "Slavomir SUBOTOVIČ"
+    },
+    {
+        "id": 463,
+        "politican_id": 124,
+        "name_surname": "Danuta VINCKEVIČ"
+    },
+    {
+        "id": 464,
+        "politican_id": 125,
+        "name_surname": "Dalia BUKELEVIČIŪTĖ"
+    },
+    {
+        "id": 465,
+        "politican_id": 125,
+        "name_surname": "Vilija GRINCEVIČIENĖ"
+    },
+    {
+        "id": 466,
+        "politican_id": 125,
+        "name_surname": "Joana JACKOVSKA"
+    },
+    {
+        "id": 467,
+        "politican_id": 125,
+        "name_surname": "Simona KRUMINAITĖ"
+    },
+    {
+        "id": 468,
+        "politican_id": 125,
+        "name_surname": "Stanislava SABALIAUSKIENĖ"
+    },
+    {
+        "id": 469,
+        "politican_id": 125,
+        "name_surname": "Sigita SKROBLIENĖ"
+    },
+    {
+        "id": 470,
+        "politican_id": 126,
+        "name_surname": "Antanas BAURA"
+    },
+    {
+        "id": 471,
+        "politican_id": 126,
+        "name_surname": "Regina PATALAUSKIENĖ"
+    },
+    {
+        "id": 472,
+        "politican_id": 126,
+        "name_surname": "Vaida PAULAUSKAITĖ"
+    },
+    {
+        "id": 473,
+        "politican_id": 126,
+        "name_surname": "Fausta ROZNYTĖ"
+    },
+    {
+        "id": 474,
+        "politican_id": 126,
+        "name_surname": "Juzef TOMAŠEVIČ-JAKOVIČ"
+    },
+    {
+        "id": 475,
+        "politican_id": 127,
+        "name_surname": "Nerijus BRAZAUSKAS"
+    },
+    {
+        "id": 476,
+        "politican_id": 127,
+        "name_surname": "Tautvydas ELIJOŠIUS"
+    },
+    {
+        "id": 477,
+        "politican_id": 127,
+        "name_surname": "Monika ŠIAUDINYTĖ"
+    },
+    {
+        "id": 478,
+        "politican_id": 128,
+        "name_surname": "Jurgita KAZLAUSKIENĖ"
+    },
+    {
+        "id": 479,
+        "politican_id": 128,
+        "name_surname": "Ramunė LIUBINAITĖ"
+    },
+    {
+        "id": 480,
+        "politican_id": 128,
+        "name_surname": "Regina LUKOŠEVIČIENĖ"
+    },
+    {
+        "id": 481,
+        "politican_id": 128,
+        "name_surname": "Marija VINCIŪNIENĖ"
+    },
+    {
+        "id": 482,
+        "politican_id": 129,
+        "name_surname": "Silvija AJAUSKAITĖ"
+    },
+    {
+        "id": 483,
+        "politican_id": 129,
+        "name_surname": "Ieva LUKOŠAITYTĖ"
+    },
+    {
+        "id": 484,
+        "politican_id": 129,
+        "name_surname": "Diana SKARBALĖ (apygardoje)"
+    },
+    {
+        "id": 485,
+        "politican_id": 129,
+        "name_surname": "Simona STATNECKYTĖ"
+    },
+    {
+        "id": 486,
+        "politican_id": 130,
+        "name_surname": "Gražvydas AŽNA"
+    },
+    {
+        "id": 487,
+        "politican_id": 130,
+        "name_surname": "Živilė JOMANTAITĖ"
+    },
+    {
+        "id": 488,
+        "politican_id": 130,
+        "name_surname": "Žilvinas LABANAS"
+    },
+    {
+        "id": 489,
+        "politican_id": 130,
+        "name_surname": "Gražina SERMONTĖ"
+    },
+    {
+        "id": 490,
+        "politican_id": 131,
+        "name_surname": "Elmiras AZIMOVAS"
+    },
+    {
+        "id": 491,
+        "politican_id": 131,
+        "name_surname": "Simona BINDARIŪTĖ (apygardoje)"
+    },
+    {
+        "id": 492,
+        "politican_id": 131,
+        "name_surname": "Rasa LIUTKUVIENĖ"
+    },
+    {
+        "id": 493,
+        "politican_id": 131,
+        "name_surname": "Gražina PAULAUSKIENĖ (apygardoje)"
+    },
+    {
+        "id": 494,
+        "politican_id": 131,
+        "name_surname": "Brigita PETROŠIŪTĖ"
+    },
+    {
+        "id": 495,
+        "politican_id": 132,
+        "name_surname": "Jonas LIESYS"
+    },
+    {
+        "id": 496,
+        "politican_id": 132,
+        "name_surname": "Vilma MARKŪNIENĖ"
+    },
+    {
+        "id": 497,
+        "politican_id": 132,
+        "name_surname": "Dovilė PEČIULIENĖ (apygardoje)"
+    },
+    {
+        "id": 498,
+        "politican_id": 132,
+        "name_surname": "Vytautas TAMOŠAUSKAS (apygardoje)"
+    },
+    {
+        "id": 499,
+        "politican_id": 133,
+        "name_surname": "Audronė JANKUVIENĖ"
+    },
+    {
+        "id": 500,
+        "politican_id": 133,
+        "name_surname": "Vaida LUKŠAITĖ"
+    },
+    {
+        "id": 501,
+        "politican_id": 133,
+        "name_surname": "Asta NAVICKIENĖ"
+    },
+    {
+        "id": 502,
+        "politican_id": 133,
+        "name_surname": "Tadas PIVORAS"
+    },
+    {
+        "id": 503,
+        "politican_id": 133,
+        "name_surname": "Vaidutė SAKOLNIKIENĖ"
+    },
+    {
+        "id": 504,
+        "politican_id": 133,
+        "name_surname": "Justina STALIONĖ"
+    },
+    {
+        "id": 505,
+        "politican_id": 133,
+        "name_surname": "Danutė UŽKURĖLYTĖ (apygardoje)"
+    },
+    {
+        "id": 506,
+        "politican_id": 134,
+        "name_surname": "Aušra DAUGĖLIENĖ (apygardoje)"
+    },
+    {
+        "id": 507,
+        "politican_id": 134,
+        "name_surname": "Nomeda JASELIŪNIENĖ"
+    },
+    {
+        "id": 508,
+        "politican_id": 134,
+        "name_surname": "Vaida PRANARAUSKAITĖ (apygardoje)"
+    },
+    {
+        "id": 509,
+        "politican_id": 134,
+        "name_surname": "Gintarė VELIČKIENĖ (apygardoje)"
+    },
+    {
+        "id": 510,
+        "politican_id": 135,
+        "name_surname": "Kristina ČELKĖ"
+    },
+    {
+        "id": 511,
+        "politican_id": 135,
+        "name_surname": "Rasa ČIRIENĖ"
+    },
+    {
+        "id": 512,
+        "politican_id": 135,
+        "name_surname": "Rūta KIZLAITĖ (apygardoje)"
+    },
+    {
+        "id": 513,
+        "politican_id": 135,
+        "name_surname": "Giedrė ŽUROMSKIENĖ"
+    },
+    {
+        "id": 514,
+        "politican_id": 136,
+        "name_surname": "Vaidota ALEKSIŪNIENĖ"
+    },
+    {
+        "id": 515,
+        "politican_id": 136,
+        "name_surname": "Laura ENDRIEKUTĖ ŠAKINĖ"
+    },
+    {
+        "id": 516,
+        "politican_id": 136,
+        "name_surname": "Janina KUMPIENĖ"
+    },
+    {
+        "id": 517,
+        "politican_id": 136,
+        "name_surname": "Levutė STANIUVIENĖ"
+    },
+    {
+        "id": 518,
+        "politican_id": 137,
+        "name_surname": "Ugnė AMBRAZEVIČIENĖ (apygardoje)"
+    },
+    {
+        "id": 519,
+        "politican_id": 137,
+        "name_surname": "Paulius LABANAUSKAS"
+    },
+    {
+        "id": 520,
+        "politican_id": 137,
+        "name_surname": "Irena MAKACKIENĖ"
+    },
+    {
+        "id": 521,
+        "politican_id": 137,
+        "name_surname": "Vaida PITUŠKIENĖ (apygardoje)"
+    },
+    {
+        "id": 522,
+        "politican_id": 137,
+        "name_surname": "Vytenis SKROBLAS (apygardoje)"
+    },
+    {
+        "id": 523,
+        "politican_id": 138,
+        "name_surname": "Viktorija BRAŽIŪNAITĖ"
+    },
+    {
+        "id": 524,
+        "politican_id": 138,
+        "name_surname": "Auksė DRANSARD"
+    },
+    {
+        "id": 525,
+        "politican_id": 138,
+        "name_surname": "Lukas GRINIUS"
+    },
+    {
+        "id": 526,
+        "politican_id": 138,
+        "name_surname": "Ramunė JURKEVIČIENĖ"
+    },
+    {
+        "id": 527,
+        "politican_id": 138,
+        "name_surname": "Simonas KLIMANSKIS"
+    },
+    {
+        "id": 528,
+        "politican_id": 139,
+        "name_surname": "Kęstutis BILIUS"
+    },
+    {
+        "id": 529,
+        "politican_id": 139,
+        "name_surname": "Alvydas JANUŠEVIČIUS"
+    },
+    {
+        "id": 530,
+        "politican_id": 139,
+        "name_surname": "Edita KARČIAUSKIENĖ"
+    },
+    {
+        "id": 531,
+        "politican_id": 139,
+        "name_surname": "Ingrida MONTVIDAITĖ"
+    },
+    {
+        "id": 532,
+        "politican_id": 140,
+        "name_surname": "Rita BALČIŪNIENĖ"
+    },
+    {
+        "id": 533,
+        "politican_id": 140,
+        "name_surname": "Laura BLIUJIENĖ"
+    },
+    {
+        "id": 534,
+        "politican_id": 140,
+        "name_surname": "Eligijus GERULIS"
+    },
+    {
+        "id": 535,
+        "politican_id": 140,
+        "name_surname": "Aurelija KARALIŪTĖ"
+    }
+]

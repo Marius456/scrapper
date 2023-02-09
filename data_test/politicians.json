@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name_surname": "Kasparas Adomaitis",
+        "faction": "Laisvės frakcija",
+        "faction_color": "#F6005E",
+        "image_link": "https://www.lrs.lt/SIPIS/sn_foto/2020/kasparas_adomaitis.jpg",
+        "birthday": "1983-06-29",
+        "sitting_position": 123,
+        "tenures": [
+            "2020",
+            "2024"
+        ],
+        "advisors": 5,
+        "link": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=84598"
+    }
+]

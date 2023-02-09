@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "year_declared": 2021,
+        "politican_id": 1,
+        "wealth_desc": [
+            "Gyvenamųjų namų (namo dalių), esančių Lietuvos Respublikoje, vertė",
+            "Žemės sklypų Lietuvos Respublikoje vertė",
+            "Kelių transporto priemonių vertė",
+            "Kitų registruotinų daiktų, meno kūrinių ir juvelyrinių dirbinių vertė",
+            "Kredito įstaigose ir ne jose turimų piniginių lėšų, esančių Lietuvos Respublikoje, suma",
+            "Pasiskolintų ir negrąžintų lėšų suma"
+        ],
+        "wealth_numb": [
+            155000,
+            34178,
+            11500,
+            600,
+            1900,
+            73000
+        ]
+    },
+    {
+        "id": 2,
+        "year_declared": 2020,
+        "politican_id": 1,
+        "wealth_desc": [
+            "Gyvenamųjų namų (namo dalių), esančių Lietuvos Respublikoje, vertė",
+            "Žemės sklypų Lietuvos Respublikoje vertė",
+            "Kelių transporto priemonių vertė",
+            "Kitų registruotinų daiktų, meno kūrinių ir juvelyrinių dirbinių vertė",
+            "Kredito įstaigose ir ne jose turimų piniginių lėšų, esančių Lietuvos Respublikoje, suma",
+            "Pasiskolintų ir negrąžintų lėšų suma"
+        ],
+        "wealth_numb": [
+            155000,
+            34178,
+            11500,
+            600,
+            2000,
+            73000
+        ]
+    }
+]
