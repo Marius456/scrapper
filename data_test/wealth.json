@@ -3,7 +3,8 @@
         "id": 1,
         "year_declared": 2021,
         "politican_id": 1,
-        "wealth_desc": [
+        "note": "Kasparas Adomaitis turi 1 atikmenų.",
+        "descriptions": [
             "Gyvenamųjų namų (namo dalių), esančių Lietuvos Respublikoje, vertė",
             "Žemės sklypų Lietuvos Respublikoje vertė",
             "Kelių transporto priemonių vertė",
@@ -11,7 +12,7 @@
             "Kredito įstaigose ir ne jose turimų piniginių lėšų, esančių Lietuvos Respublikoje, suma",
             "Pasiskolintų ir negrąžintų lėšų suma"
         ],
-        "wealth_numb": [
+        "numbers": [
             155000,
             34178,
             11500,
@@ -24,7 +25,8 @@
         "id": 2,
         "year_declared": 2020,
         "politican_id": 1,
-        "wealth_desc": [
+        "note": "Kasparas Adomaitis turi 1 atikmenų.",
+        "descriptions": [
             "Gyvenamųjų namų (namo dalių), esančių Lietuvos Respublikoje, vertė",
             "Žemės sklypų Lietuvos Respublikoje vertė",
             "Kelių transporto priemonių vertė",
@@ -32,7 +34,7 @@
             "Kredito įstaigose ir ne jose turimų piniginių lėšų, esančių Lietuvos Respublikoje, suma",
             "Pasiskolintų ir negrąžintų lėšų suma"
         ],
-        "wealth_numb": [
+        "numbers": [
             155000,
             34178,
             11500,
