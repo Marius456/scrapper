@@ -136,11 +136,11 @@ for politician in data:
         }, ensure_ascii=False))
         politicans_wealth.append(json.dumps(year_data, ensure_ascii=False))
     driver.switch_to.default_content()
-    break
+    # break
 driver.close()
 
-dataFolder = "data_test"
-# dataFolder = "data"
+# dataFolder = "data_test"
+dataFolder = "data"
 
 first_item = True
 with open(dataFolder + '/wealth.json', 'w', encoding="utf-8") as out:

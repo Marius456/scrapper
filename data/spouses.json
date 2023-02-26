@@ -1,0 +1,587 @@
+[
+    {
+        "id": 1,
+        "name_surname": "RŪTENĖ ADOMAITIENĖ",
+        "politican_id": 1
+    },
+    {
+        "id": 2,
+        "name_surname": "KRISTINA ALEKNIENĖ",
+        "politican_id": 2
+    },
+    {
+        "id": 3,
+        "name_surname": "KĘSTUTIS ABRAMIKAS",
+        "politican_id": 3
+    },
+    {
+        "id": 4,
+        "name_surname": "LINA ANUŠAUSKIENĖ",
+        "politican_id": 4
+    },
+    {
+        "id": 5,
+        "name_surname": "EDGARAS STANIŠAUSKAS",
+        "politican_id": 5
+    },
+    {
+        "id": 6,
+        "name_surname": "LORETA AŽUBALIENĖ",
+        "politican_id": 7
+    },
+    {
+        "id": 7,
+        "name_surname": "SANDRA ĄŽUOLIENĖ",
+        "politican_id": 8
+    },
+    {
+        "id": 8,
+        "name_surname": "SEVERINA BALČYTIENĖ",
+        "politican_id": 11
+    },
+    {
+        "id": 9,
+        "name_surname": "RAIMONDAS BAŠKYS",
+        "politican_id": 12
+    },
+    {
+        "id": 10,
+        "name_surname": "ILONA BIČIŪNIENĖ",
+        "politican_id": 14
+    },
+    {
+        "id": 11,
+        "name_surname": "ROLANDAS GALVĖNAS",
+        "politican_id": 16
+    },
+    {
+        "id": 12,
+        "name_surname": "ALINA BUKAUSKIENĖ",
+        "politican_id": 17
+    },
+    {
+        "id": 13,
+        "name_surname": "DEIVIDAS BUROKAS",
+        "politican_id": 18
+    },
+    {
+        "id": 14,
+        "name_surname": "JANINA BUTKEVIČIENĖ",
+        "politican_id": 19
+    },
+    {
+        "id": 15,
+        "name_surname": "NIJOLĖ ČEPONONIENĖ",
+        "politican_id": 20
+    },
+    {
+        "id": 16,
+        "name_surname": "PETER HEINE NIELSEN",
+        "politican_id": 21
+    },
+    {
+        "id": 17,
+        "name_surname": "DONATAS DANIELIUS",
+        "politican_id": 22
+    },
+    {
+        "id": 18,
+        "name_surname": "DANIEL DOBROVOLSKIJ",
+        "politican_id": 23
+    },
+    {
+        "id": 19,
+        "name_surname": "ALICIJA DUMBRAVIENĖ",
+        "politican_id": 24
+    },
+    {
+        "id": 20,
+        "name_surname": "INDRĖ FIODOROVA",
+        "politican_id": 26
+    },
+    {
+        "id": 21,
+        "name_surname": "DŽULJETA GAIŽAUSKIENĖ",
+        "politican_id": 27
+    },
+    {
+        "id": 22,
+        "name_surname": "JUSTĖ PEČELIŪNAITĖ",
+        "politican_id": 28
+    },
+    {
+        "id": 23,
+        "name_surname": "ANDŽELIKA GEDVILIENĖ",
+        "politican_id": 29
+    },
+    {
+        "id": 24,
+        "name_surname": "PAULIUS GEDVILAS",
+        "politican_id": 30
+    },
+    {
+        "id": 25,
+        "name_surname": "AUŠRA GENTVILIENĖ",
+        "politican_id": 31
+    },
+    {
+        "id": 26,
+        "name_surname": "ŠARŪNĖ GENTVILIENĖ",
+        "politican_id": 32
+    },
+    {
+        "id": 27,
+        "name_surname": "SAULIUS JUŠKEVIČIUS",
+        "politican_id": 33
+    },
+    {
+        "id": 28,
+        "name_surname": "KAZYS GIRSKIS",
+        "politican_id": 34
+    },
+    {
+        "id": 29,
+        "name_surname": "IRMA GRIŠKEVIČIENĖ",
+        "politican_id": 36
+    },
+    {
+        "id": 30,
+        "name_surname": "ZITA GUDAUSKIENĖ",
+        "politican_id": 37
+    },
+    {
+        "id": 31,
+        "name_surname": "VILHELM HAASE",
+        "politican_id": 38
+    },
+    {
+        "id": 32,
+        "name_surname": "NIJOLĖ JONAITIENĖ",
+        "politican_id": 41
+    },
+    {
+        "id": 33,
+        "name_surname": "EVITA JONAUSKĖ",
+        "politican_id": 42
+    },
+    {
+        "id": 34,
+        "name_surname": "AUDRONĖ JOVAIŠIENĖ",
+        "politican_id": 43
+    },
+    {
+        "id": 35,
+        "name_surname": "NELDA JOVAIŠIENĖ",
+        "politican_id": 44
+    },
+    {
+        "id": 36,
+        "name_surname": "MARGARITA RITA JUKNIENĖ",
+        "politican_id": 45
+    },
+    {
+        "id": 37,
+        "name_surname": "EGLĖ JUOZAPAITIENĖ",
+        "politican_id": 46
+    },
+    {
+        "id": 38,
+        "name_surname": "RITA JUŠKIENĖ",
+        "politican_id": 47
+    },
+    {
+        "id": 39,
+        "name_surname": "SIMONAS URBONAS",
+        "politican_id": 48
+    },
+    {
+        "id": 40,
+        "name_surname": "DAIVA KANOPIENĖ",
+        "politican_id": 49
+    },
+    {
+        "id": 41,
+        "name_surname": "MONIKA KASČIŪNIENĖ",
+        "politican_id": 50
+    },
+    {
+        "id": 42,
+        "name_surname": "REGINA KEPENIENĖ",
+        "politican_id": 51
+    },
+    {
+        "id": 43,
+        "name_surname": "RIMA KERNAGIENĖ",
+        "politican_id": 52
+    },
+    {
+        "id": 44,
+        "name_surname": "DIANA KINDURIENĖ",
+        "politican_id": 53
+    },
+    {
+        "id": 45,
+        "name_surname": "DALIA KREIVIENĖ",
+        "politican_id": 54
+    },
+    {
+        "id": 46,
+        "name_surname": "DAINIUS KUBILIUS",
+        "politican_id": 55
+    },
+    {
+        "id": 47,
+        "name_surname": "RIMA KUKURAITIENĖ",
+        "politican_id": 56
+    },
+    {
+        "id": 48,
+        "name_surname": "JURGITA KUPČINSKIENĖ",
+        "politican_id": 57
+    },
+    {
+        "id": 49,
+        "name_surname": "NERIJUS KUZMICKAS",
+        "politican_id": 58
+    },
+    {
+        "id": 50,
+        "name_surname": "MODESTA LABANAVIČIENĖ",
+        "politican_id": 59
+    },
+    {
+        "id": 51,
+        "name_surname": "AUSTĖJA LANDSBERGIENĖ",
+        "politican_id": 60
+    },
+    {
+        "id": 52,
+        "name_surname": "GIEDRIUS LENGVINAS",
+        "politican_id": 62
+    },
+    {
+        "id": 53,
+        "name_surname": "OLGA BRIGITA LYDEKIENĖ",
+        "politican_id": 63
+    },
+    {
+        "id": 54,
+        "name_surname": "JOLITA LINGĖ",
+        "politican_id": 64
+    },
+    {
+        "id": 55,
+        "name_surname": "AUŠRA LOPATIENĖ",
+        "politican_id": 65
+    },
+    {
+        "id": 56,
+        "name_surname": "IRENA MASIULIENĖ",
+        "politican_id": 68
+    },
+    {
+        "id": 57,
+        "name_surname": "LIMINA MATELIENĖ",
+        "politican_id": 69
+    },
+    {
+        "id": 58,
+        "name_surname": "SANDRA MATULIENĖ",
+        "politican_id": 71
+    },
+    {
+        "id": 59,
+        "name_surname": "LAURA MAZURONĖ",
+        "politican_id": 72
+    },
+    {
+        "id": 60,
+        "name_surname": "NERIJUS RAVINIS",
+        "politican_id": 74
+    },
+    {
+        "id": 61,
+        "name_surname": "EGLĖ MITALĖ",
+        "politican_id": 75
+    },
+    {
+        "id": 62,
+        "name_surname": "ALVYDAS MOGENIS",
+        "politican_id": 76
+    },
+    {
+        "id": 63,
+        "name_surname": "MINDAUGAS MIKULĖNAS",
+        "politican_id": 77
+    },
+    {
+        "id": 64,
+        "name_surname": "STASYS NAGYS",
+        "politican_id": 78
+    },
+    {
+        "id": 65,
+        "name_surname": "VAIDA NAVICKIENĖ",
+        "politican_id": 79
+    },
+    {
+        "id": 66,
+        "name_surname": "MINDAUGAS NAVICKAS",
+        "politican_id": 80
+    },
+    {
+        "id": 67,
+        "name_surname": "GITANA NEKROŠIENĖ",
+        "politican_id": 81
+    },
+    {
+        "id": 68,
+        "name_surname": "MARIUS NORKUS",
+        "politican_id": 82
+    },
+    {
+        "id": 69,
+        "name_surname": "ALEKSANDRA OLŠEVSKA",
+        "politican_id": 83
+    },
+    {
+        "id": 70,
+        "name_surname": "VLADISLAV OŠMIANSKIJ",
+        "politican_id": 84
+    },
+    {
+        "id": 71,
+        "name_surname": "MINDAUGAS VAIČIULIS",
+        "politican_id": 85
+    },
+    {
+        "id": 72,
+        "name_surname": "KRISTINA PALIONIENĖ",
+        "politican_id": 86
+    },
+    {
+        "id": 73,
+        "name_surname": "ILMA PALUCKĖ",
+        "politican_id": 87
+    },
+    {
+        "id": 74,
+        "name_surname": "ASTA MIKUTAVIČIŪTĖ-PAVILIONIENĖ",
+        "politican_id": 88
+    },
+    {
+        "id": 75,
+        "name_surname": "TADEUŠ PETKEVIČ",
+        "politican_id": 90
+    },
+    {
+        "id": 76,
+        "name_surname": "ŽIVILĖ PINSKUVIENĖ",
+        "politican_id": 91
+    },
+    {
+        "id": 77,
+        "name_surname": "NAMIDA POCIENĖ",
+        "politican_id": 93
+    },
+    {
+        "id": 78,
+        "name_surname": "IRENA PRANCKIETIENĖ",
+        "politican_id": 94
+    },
+    {
+        "id": 79,
+        "name_surname": "INDRĖ PUIDOKĖ",
+        "politican_id": 95
+    },
+    {
+        "id": 80,
+        "name_surname": "DIANA PUPINIENĖ",
+        "politican_id": 96
+    },
+    {
+        "id": 81,
+        "name_surname": "AISTĖ ALDAKAUSKAITĖ-RAKUTIENĖ",
+        "politican_id": 97
+    },
+    {
+        "id": 82,
+        "name_surname": "VILIJA RAZMIENĖ",
+        "politican_id": 99
+    },
+    {
+        "id": 83,
+        "name_surname": "HENRIKAS RUDELIS",
+        "politican_id": 100
+    },
+    {
+        "id": 84,
+        "name_surname": "STANISLAVA SABATAUSKIENĖ",
+        "politican_id": 101
+    },
+    {
+        "id": 85,
+        "name_surname": "RASA SABUTIENĖ",
+        "politican_id": 102
+    },
+    {
+        "id": 86,
+        "name_surname": "MILDA SAUDARGĖ",
+        "politican_id": 103
+    },
+    {
+        "id": 87,
+        "name_surname": "DAIVA SAVICKIENĖ",
+        "politican_id": 104
+    },
+    {
+        "id": 88,
+        "name_surname": "VAIDAS SEJONAS",
+        "politican_id": 105
+    },
+    {
+        "id": 89,
+        "name_surname": "IRENA DŽIUŽAITĖ",
+        "politican_id": 106
+    },
+    {
+        "id": 90,
+        "name_surname": "AUDRIUS SKAISTYS",
+        "politican_id": 107
+    },
+    {
+        "id": 91,
+        "name_surname": "SNIEGUOLĖ SKARDŽIUVIENĖ",
+        "politican_id": 108
+    },
+    {
+        "id": 92,
+        "name_surname": "RAMUNĖ SKRITULSKIENĖ",
+        "politican_id": 109
+    },
+    {
+        "id": 93,
+        "name_surname": "SILVIJA SKVERNELĖ",
+        "politican_id": 110
+    },
+    {
+        "id": 94,
+        "name_surname": "RASA STARKEVIČIENĖ",
+        "politican_id": 112
+    },
+    {
+        "id": 95,
+        "name_surname": "AUDRONĖ STONČAITIENĖ",
+        "politican_id": 113
+    },
+    {
+        "id": 96,
+        "name_surname": "DANUTĖ STREIKUVIENĖ",
+        "politican_id": 114
+    },
+    {
+        "id": 97,
+        "name_surname": "REGINA STRELČIŪNIENĖ",
+        "politican_id": 115
+    },
+    {
+        "id": 98,
+        "name_surname": "LINA BANYTĖ-SURPLIENĖ",
+        "politican_id": 116
+    },
+    {
+        "id": 99,
+        "name_surname": "VALDAS ŠAKALYS",
+        "politican_id": 117
+    },
+    {
+        "id": 100,
+        "name_surname": "IVANAS KAZAČENKO",
+        "politican_id": 118
+    },
+    {
+        "id": 101,
+        "name_surname": "AGNĖ MOTIEJŪNAITĖ-ŠARKNICKIENĖ",
+        "politican_id": 119
+    },
+    {
+        "id": 102,
+        "name_surname": "ONA ŠEDBARIENĖ",
+        "politican_id": 120
+    },
+    {
+        "id": 103,
+        "name_surname": "ARVYDAS ŠIRINSKAS",
+        "politican_id": 122
+    },
+    {
+        "id": 104,
+        "name_surname": "JAROSLAVAS TAMAŠUNAS",
+        "politican_id": 124
+    },
+    {
+        "id": 105,
+        "name_surname": "KRISTINA TOMILINA",
+        "politican_id": 126
+    },
+    {
+        "id": 106,
+        "name_surname": "ANA TUMĖNIENĖ",
+        "politican_id": 127
+    },
+    {
+        "id": 107,
+        "name_surname": "JURGA URBANAVIČIENĖ",
+        "politican_id": 128
+    },
+    {
+        "id": 108,
+        "name_surname": "EDITA VAITKIENĖ",
+        "politican_id": 129
+    },
+    {
+        "id": 109,
+        "name_surname": "NIJOLĖ VARKALIENĖ",
+        "politican_id": 132
+    },
+    {
+        "id": 110,
+        "name_surname": "RIMA VARŽGALIENĖ",
+        "politican_id": 133
+    },
+    {
+        "id": 111,
+        "name_surname": "RASA VERYGIENĖ",
+        "politican_id": 134
+    },
+    {
+        "id": 112,
+        "name_surname": "EUGENIJA VILKAUSKIENĖ",
+        "politican_id": 135
+    },
+    {
+        "id": 113,
+        "name_surname": "DANUTĖ VINKUVIENĖ",
+        "politican_id": 136
+    },
+    {
+        "id": 114,
+        "name_surname": "INGA VYŠNIAUSKIENĖ",
+        "politican_id": 137
+    },
+    {
+        "id": 115,
+        "name_surname": "VIRGINIJA ZINGERIENĖ",
+        "politican_id": 138
+    },
+    {
+        "id": 116,
+        "name_surname": "ŽIVILĖ ŽEMAITAITIENĖ",
+        "politican_id": 139
+    },
+    {
+        "id": 117,
+        "name_surname": "RITA ŽUKAUSKIENĖ",
+        "politican_id": 140
+    }
+]

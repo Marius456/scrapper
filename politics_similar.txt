@@ -1,0 +1,21 @@
+POLITICIANS:
+Andrius Bagdonas turi 3 atikmenų.
+Juozas Baublys turi 2 atikmenų.
+Gintautas Kindurys turi 2 atikmenų.
+Asta Kubilienė turi 2 atikmenų.
+Mindaugas Lingė turi 2 atikmenų.
+Kęstutis Masiulis turi 2 atikmenų.
+Andrius Navickas turi 2 atikmenų.
+Andrius Palionis turi 2 atikmenų.
+Arvydas Pocius turi 4 atikmenų.
+Edita Rudelienė turi 2 atikmenų.
+Jurgita Šiugždinienė turi 2 atikmenų.
+Justinas Urbanavičius turi 2 atikmenų.
+Kęstutis Vilkauskas turi 2 atikmenų.
+SPOUSES:
+SAULIUS JUŠKEVIČIUS turi 2 atitikmenų.
+SANDRA MATULIENĖ turi 2 atitikmenų.
+MINDAUGAS VAIČIULIS turi 2 atitikmenų.
+KRISTINA PALIONIENĖ turi 2 atitikmenų.
+SNIEGUOLĖ SKARDŽIUVIENĖ turi 2 atitikmenų.
+RITA ŽUKAUSKIENĖ turi 2 atitikmenų.

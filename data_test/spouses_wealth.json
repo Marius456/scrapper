@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "year_declared": 2021,
+        "politician_spouse_id": 1,
+        "descriptions": [
+            "Asmuo deklaravo, kad turto neturi"
+        ],
+        "numbers": []
+    },
+    {
+        "id": 2,
+        "year_declared": 2020,
+        "politician_spouse_id": 1,
+        "descriptions": [
+            "Pasiskolintų ir negrąžintų lėšų suma"
+        ],
+        "numbers": [
+            3300
+        ]
+    },
+    {
+        "id": 3,
+        "year_declared": 2019,
+        "politician_spouse_id": 1,
+        "descriptions": [
+            "Pasiskolintų ir negrąžintų lėšų suma"
+        ],
+        "numbers": [
+            5306
+        ]
+    },
+    {
+        "id": 4,
+        "year_declared": 2018,
+        "politician_spouse_id": 1,
+        "descriptions": [
+            "Pasiskolintų ir negrąžintų lėšų suma"
+        ],
+        "numbers": [
+            9000
+        ]
+    },
+    {
+        "id": 5,
+        "year_declared": 2017,
+        "politician_spouse_id": 1,
+        "descriptions": [
+            "Asmuo deklaravo, kad turto neturi"
+        ],
+        "numbers": []
+    },
+    {
+        "id": 6,
+        "year_declared": 2016,
+        "politician_spouse_id": 1,
+        "descriptions": [
+            "Asmuo deklaravo, kad turto neturi"
+        ],
+        "numbers": []
+    },
+    {
+        "id": 7,
+        "year_declared": 2015,
+        "politician_spouse_id": 1,
+        "descriptions": [
+            "Asmuo deklaravo, kad turto neturi"
+        ],
+        "numbers": []
+    }
+]
